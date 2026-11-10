@@ -1,0 +1,32 @@
+# Data — downloaded by the acquisition step, never committed.
+data/
+
+# Python / env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+notebooks/catboost_info/
+
+# Secrets
+.env
+*.pem
+*.key
+kaggle.json
+**/secrets/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Interview / recruiter prep: kept locally, never published ---------------
+# These are deliverables in my own workflow (DOSSIER.md is one of the five) but
+# they name prospective employers, quote recruiters' briefs, and in one case
+# cross-reference a confidential assignment. They stay on disk and out of git.
+DOSSIER.md
+interview/

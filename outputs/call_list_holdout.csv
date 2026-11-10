@@ -1,0 +1,761 @@
+,churn_probability,customer_value_eur,expected_gain_eur,reason_code
+2092,0.8328547179346777,11830.0,1841.0,"NumOfProducts = 3 (+2.25); 3+ products (+1.18); Balance = EUR 250,898 (+0.55)"
+3175,0.8953417647150365,7955.0,1294.0,"NumOfProducts = 3 (+2.29); 3+ products (+1.25); Balance = EUR 164,769 (+0.27)"
+555,0.9427638703742827,7513.0,1287.0,NumOfProducts = 3 (+1.99); Age = 51 (+1.16); 3+ products (+1.13)
+4784,0.8188733604337276,8622.0,1282.0,"Age = 53 (+1.61); inactive member (+0.60); Balance = EUR 187,602 (+0.39)"
+2658,0.8638477937963099,7963.0,1246.0,NumOfProducts = 3 (+2.07); 3+ products (+1.14); inactive member (+0.21)
+4869,0.9144362568062209,7277.0,1201.0,NumOfProducts = 3 (+2.07); 3+ products (+1.17); Age = 50 (+1.16)
+2473,0.8781644704894377,7522.0,1191.0,Age = 57 (+1.94); inactive member (+0.64); CreditScore = 351 (+0.57)
+6831,0.9681818029584,6817.0,1190.0,NumOfProducts = 3 (+1.79); Age = 52 (+1.31); 3+ products (+0.95)
+70,0.9740242150168349,6739.0,1183.0,NumOfProducts = 4 (+1.99); Age = 58 (+1.53); 3+ products (+0.95)
+3703,0.8985427340965979,7251.0,1173.0,"NumOfProducts = 3 (+2.19); 3+ products (+1.19); Balance = EUR 149,131 (+0.35)"
+7862,0.8308612201955528,7812.0,1168.0,"NumOfProducts = 3 (+2.24); 3+ products (+1.23); Balance = EUR 161,591 (+0.25)"
+6524,0.8162371096681963,7907.0,1161.0,"NumOfProducts = 3 (+2.14); 3+ products (+1.19); Balance = EUR 163,701 (+0.18)"
+5082,0.9049031017140262,6970.0,1131.0,"NumOfProducts = 3 (+2.08); 3+ products (+1.15); Balance = EUR 142,880 (+0.26)"
+9215,0.9270664645514058,6758.0,1123.0,"NumOfProducts = 4 (+2.47); 3+ products (+1.20); Balance = EUR 134,172 (+0.34)"
+8897,0.7234242654711454,8587.0,1112.0,"Age = 51 (+1.46); inactive member (+0.53); Balance = EUR 186,826 (+0.38)"
+5363,0.9197706219068531,6638.0,1091.0,NumOfProducts = 3 (+2.09); 3+ products (+1.17); Age = 51 (+1.14)
+179,0.8176927074953818,7452.0,1089.0,Age = 55 (+2.04); inactive member (+0.56); NumOfProducts = 1 (+0.35)
+2977,0.9432584548432353,6451.0,1087.0,NumOfProducts = 3 (+2.00); 3+ products (+1.08); Age = 45 (+0.74)
+2541,0.9123666206574614,6641.0,1082.0,NumOfProducts = 4 (+2.19); 3+ products (+1.12); Age = 61 (+0.90)
+7435,0.9425572662568947,6415.0,1079.0,NumOfProducts = 3 (+1.85); Age = 50 (+1.02); 3+ products (+1.02)
+138,0.6180294716567564,9772.0,1078.0,"Age = 48 (+1.08); inactive member (+0.38); Balance = EUR 213,146 (+0.36)"
+871,0.9460478164423801,6382.0,1078.0,NumOfProducts = 3 (+1.91); 3+ products (+1.03); Age = 45 (+0.76)
+5750,0.9058098509837129,6650.0,1075.0,"NumOfProducts = 3 (+2.18); 3+ products (+1.19); Balance = EUR 135,776 (+0.38)"
+2900,0.8247187954768068,7227.0,1062.0,"NumOfProducts = 3 (+2.31); 3+ products (+1.28); Balance = EUR 148,610 (+0.33)"
+5113,0.6925027473376016,8528.0,1051.0,"Age = 47 (+1.07); NumOfProducts = 1 (+0.36); Balance = EUR 185,514 (+0.34)"
+5010,0.9538362329598655,6174.0,1048.0,NumOfProducts = 4 (+2.24); 3+ products (+1.12); Age = 49 (+1.07)
+7317,0.8132449104415002,7046.0,1016.0,Age = 59 (+1.94); inactive member (+0.76); NumOfProducts = 1 (+0.37)
+2168,0.8567134064084487,6626.0,1005.0,Age = 56 (+1.98); inactive member (+0.65); NumOfProducts = 1 (+0.39)
+9540,0.9599809578651021,5906.0,1004.0,NumOfProducts = 4 (+2.14); 3+ products (+1.05); Age = 46 (+0.89)
+5386,0.9323660414328785,6044.0,997.0,NumOfProducts = 4 (+2.19); 3+ products (+1.02); Age = 48 (+0.92)
+2738,0.876891710045321,6336.0,981.0,"NumOfProducts = 3 (+2.11); 3+ products (+1.18); Balance = EUR 128,809 (+0.33)"
+1488,0.8907772656322792,6181.0,971.0,"NumOfProducts = 4 (+2.47); 3+ products (+1.25); Balance = EUR 121,346 (+0.33)"
+5950,0.9755154595756118,5593.0,961.0,NumOfProducts = 3 (+1.77); Age = 57 (+1.60); 3+ products (+0.94)
+6255,0.9736991069639355,5551.0,951.0,NumOfProducts = 3 (+1.74); Age = 55 (+1.65); 3+ products (+0.94)
+5257,0.7815276652707903,6888.0,947.0,"NumOfProducts = 3 (+2.19); 3+ products (+1.18); Balance = EUR 141,069 (+0.23)"
+2967,0.915124568518765,5842.0,939.0,"NumOfProducts = 3 (+2.05); 3+ products (+1.12); Balance = EUR 117,833 (+0.38)"
+8173,0.8430559764214811,6269.0,927.0,"NumOfProducts = 3 (+2.12); 3+ products (+1.16); Balance = EUR 127,320 (+0.35)"
+2395,0.674041198623505,7830.0,926.0,Age = 52 (+1.75); inactive member (+0.60); NumOfProducts = 1 (+0.30)
+8396,0.9411126065325987,5583.0,921.0,NumOfProducts = 3 (+1.89); 3+ products (+1.04); Age = 48 (+0.97)
+8862,0.8303003003481859,6259.0,909.0,Age = 59 (+1.82); inactive member (+0.67); NumOfProducts = 1 (+0.45)
+9041,0.6513871054814205,7902.0,899.0,Age = 49 (+1.38); inactive member (+0.37); NumOfProducts = 1 (+0.36)
+3251,0.9372948289295016,5423.0,887.0,NumOfProducts = 3 (+1.96); 3+ products (+1.06); Age = 43 (+0.54)
+2220,0.7810882811269901,6503.0,886.0,Age = 49 (+1.35); lives in Germany (+0.46); NumOfProducts = 1 (+0.41)
+1955,0.9328764036993767,5440.0,885.0,NumOfProducts = 3 (+1.85); Age = 58 (+1.09); 3+ products (+1.08)
+4732,0.8806314752657992,5756.0,884.0,Age = 53 (+1.67); lives in Germany (+0.49); inactive member (+0.43)
+7316,0.8452829098621332,5983.0,882.0,Age = 54 (+1.95); inactive member (+0.53); lives in Germany (+0.47)
+6303,0.7854443822227568,6366.0,870.0,Age = 49 (+1.36); lives in Germany (+0.47); NumOfProducts = 1 (+0.44)
+8065,0.7832844997778944,6350.0,865.0,Age = 49 (+1.41); lives in Germany (+0.49); NumOfProducts = 1 (+0.44)
+7206,0.8160608088401926,6082.0,863.0,Age = 47 (+1.31); lives in Germany (+0.53); NumOfProducts = 1 (+0.46)
+6561,0.6393522957918149,7753.0,861.0,Age = 48 (+1.32); NumOfProducts = 1 (+0.36); inactive member (+0.36)
+7636,0.6781135709128515,7295.0,859.0,Age = 59 (+1.98); inactive member (+0.75); female (+0.15)
+5922,0.9257207345054188,5300.0,851.0,NumOfProducts = 3 (+2.06); 3+ products (+1.09); Age = 44 (+0.57)
+9800,0.8256113713251634,5911.0,846.0,"NumOfProducts = 3 (+2.16); 3+ products (+1.21); Balance = EUR 119,350 (+0.31)"
+9719,0.8140061327057739,5953.0,839.0,Age = 47 (+1.27); lives in Germany (+0.48); NumOfProducts = 1 (+0.40)
+867,0.6075547018439863,7868.0,826.0,Age = 48 (+1.23); inactive member (+0.35); NumOfProducts = 1 (+0.27)
+776,0.8715642412324398,5442.0,819.0,Age = 58 (+1.88); inactive member (+0.68); lives in Germany (+0.42)
+9255,0.888612198797281,5289.0,810.0,NumOfProducts = 4 (+2.23); 3+ products (+1.06); inactive member (+0.19)
+4026,0.9285272649341505,5052.0,808.0,NumOfProducts = 3 (+1.90); Age = 56 (+1.31); 3+ products (+1.10)
+3827,0.8577930447978177,5448.0,805.0,Age = 57 (+1.99); inactive member (+0.59); lives in Germany (+0.48)
+6506,0.7815194845063558,5961.0,802.0,Age = 56 (+1.99); inactive member (+0.64); TenureByAge = 0.02 (+0.23)
+5701,0.7753001445179811,5963.0,795.0,Age = 49 (+1.36); lives in Germany (+0.50); NumOfProducts = 1 (+0.39)
+6441,0.5600447663937106,8227.0,792.0,"Age = 45 (+0.92); inactive member (+0.36); Balance = EUR 178,828 (+0.33)"
+416,0.890914510232512,5147.0,787.0,Age = 61 (+1.88); inactive member (+0.70); lives in Germany (+0.41)
+8234,0.7567164449217808,5998.0,778.0,Age = 47 (+1.23); lives in Germany (+0.55); NumOfProducts = 1 (+0.45)
+2518,0.9349661212760841,4852.0,777.0,NumOfProducts = 3 (+1.99); Age = 50 (+1.24); 3+ products (+1.12)
+1253,0.7464468310954618,6067.0,776.0,"Age = 55 (+2.08); inactive member (+0.57); Balance = EUR 126,818 (+0.28)"
+7037,0.6457708947022823,6968.0,770.0,Age = 46 (+1.09); lives in Germany (+0.42); NumOfProducts = 1 (+0.42)
+3262,0.649656442770898,6918.0,769.0,Age = 48 (+1.33); NumOfProducts = 1 (+0.41); lives in Germany (+0.40)
+9982,0.7050275035655788,6352.0,766.0,Age = 46 (+1.01); lives in Germany (+0.51); NumOfProducts = 1 (+0.41)
+5942,0.8799999735239405,5093.0,766.0,Age = 53 (+1.74); lives in Germany (+0.52); inactive member (+0.48)
+6795,0.5401496891035623,8273.0,764.0,Age = 48 (+1.07); inactive member (+0.41); NumOfProducts = 1 (+0.36)
+8963,0.5524920436995033,8066.0,761.0,"Age = 52 (+1.73); inactive member (+0.49); Balance = EUR 171,236 (+0.31)"
+7008,0.814212546920822,5460.0,759.0,Age = 65 (+1.36); inactive member (+0.73); lives in Germany (+0.42)
+7142,0.706194825867,6283.0,757.0,Age = 63 (+1.96); inactive member (+0.77); female (+0.18)
+5256,0.5859813134462357,7549.0,755.0,Age = 48 (+1.31); inactive member (+0.40); NumOfProducts = 1 (+0.24)
+4669,0.8104432497951897,5454.0,754.0,Age = 50 (+1.47); lives in Germany (+0.54); NumOfProducts = 1 (+0.43)
+1110,0.5114571584846689,8545.0,744.0,"Age = 52 (+1.29); Balance = EUR 185,892 (+0.32); NumOfProducts = 1 (+0.26)"
+989,0.562999150932701,7749.0,743.0,Age = 49 (+1.33); inactive member (+0.36); NumOfProducts = 1 (+0.30)
+475,0.667945873632195,6529.0,742.0,Age = 46 (+1.04); lives in Germany (+0.53); NumOfProducts = 1 (+0.44)
+3920,0.4399987372027647,9751.0,728.0,Age = 43 (+0.72); NumOfProducts = 1 (+0.42); inactive member (+0.31)
+6172,0.9113350236301402,4663.0,720.0,NumOfProducts = 4 (+2.36); 3+ products (+1.17); Age = 43 (+0.68)
+1598,0.7556672099626252,5615.0,719.0,Age = 48 (+1.23); lives in Germany (+0.52); NumOfProducts = 1 (+0.41)
+2074,0.6501125683768598,6531.0,719.0,Age = 44 (+0.69); lives in Germany (+0.55); NumOfProducts = 1 (+0.46)
+1798,0.9362656484552583,4514.0,715.0,NumOfProducts = 3 (+1.72); Age = 51 (+1.28); 3+ products (+0.95)
+7098,0.8211891471429826,5129.0,712.0,Age = 51 (+1.61); lives in Germany (+0.49); inactive member (+0.42)
+2350,0.7346058426678348,5716.0,710.0,"Age = 58 (+2.05); inactive member (+0.66); Balance = EUR 119,025 (+0.27)"
+3639,0.7758786972566999,5360.0,702.0,Age = 48 (+1.26); lives in Germany (+0.51); NumOfProducts = 1 (+0.39)
+9064,0.7003863363971506,5938.0,702.0,Age = 49 (+1.33); lives in Germany (+0.50); NumOfProducts = 1 (+0.38)
+1086,0.8167960143219536,5074.0,699.0,NumOfProducts = 3 (+2.14); 3+ products (+1.20); inactive member (+0.20)
+767,0.7358829645691859,5576.0,691.0,"Age = 60 (+2.02); inactive member (+0.74); Balance = EUR 115,921 (+0.33)"
+2427,0.6676100840603891,6146.0,691.0,Age = 49 (+1.34); lives in Germany (+0.56); NumOfProducts = 1 (+0.41)
+6368,0.6482069637830717,6313.0,688.0,Age = 52 (+1.76); inactive member (+0.58); NumOfProducts = 1 (+0.25)
+8884,0.8558990834434159,4751.0,683.0,NumOfProducts = 3 (+1.95); 3+ products (+1.08); inactive member (+0.18)
+4424,0.6090532975843207,6606.0,675.0,Age = 47 (+1.16); lives in Germany (+0.51); NumOfProducts = 1 (+0.36)
+399,0.639373749444898,6293.0,675.0,Age = 66 (+1.27); inactive member (+0.76); NumOfProducts = 1 (+0.21)
+2372,0.6893358563440877,5829.0,674.0,Age = 43 (+0.63); lives in Germany (+0.57); NumOfProducts = 1 (+0.41)
+5088,0.8744718517528138,4583.0,671.0,NumOfProducts = 3 (+2.06); 3+ products (+1.18); inactive member (+0.23)
+8523,0.5964800150292717,6661.0,665.0,Age = 54 (+1.45); lives in Germany (+0.48); NumOfProducts = 1 (+0.33)
+4137,0.8080212288043299,4890.0,660.0,Age = 51 (+1.64); lives in Germany (+0.50); inactive member (+0.44)
+5484,0.7046832158432345,5573.0,655.0,Age = 45 (+1.02); lives in Germany (+0.58); NumOfProducts = 1 (+0.44)
+1862,0.48613377815472486,8069.0,654.0,Age = 44 (+0.62); inactive member (+0.41); NumOfProducts = 1 (+0.34)
+7530,0.5739996188840525,6717.0,641.0,Age = 52 (+1.45); lives in Germany (+0.41); NumOfProducts = 1 (+0.35)
+2856,0.7487959017291478,5140.0,640.0,Age = 45 (+1.01); lives in Germany (+0.48); NumOfProducts = 1 (+0.41)
+2346,0.7228443273744265,5293.0,635.0,Age = 46 (+1.12); lives in Germany (+0.57); NumOfProducts = 1 (+0.42)
+1020,0.47802271778698074,7985.0,633.0,Age = 49 (+1.18); inactive member (+0.38); NumOfProducts = 1 (+0.32)
+3885,0.7526134172350099,5006.0,624.0,"Age = 56 (+2.15); inactive member (+0.61); Balance = EUR 103,245 (+0.23)"
+7571,0.9163170823636574,4116.0,624.0,NumOfProducts = 3 (+2.02); Age = 52 (+1.24); 3+ products (+1.16)
+5255,0.7013566668843416,5324.0,617.0,Age = 63 (+1.92); inactive member (+0.74); TenureByAge = 0.02 (+0.32)
+7851,0.7085568420010375,5247.0,614.0,Age = 68 (+0.94); inactive member (+0.78); lives in Germany (+0.47)
+41,0.653750119242015,5694.0,614.0,Age = 51 (+1.59); inactive member (+0.43); NumOfProducts = 1 (+0.28)
+2135,0.8303635485405398,4468.0,612.0,Age = 57 (+2.00); inactive member (+0.64); NumOfProducts = 1 (+0.42)
+7327,0.4094818598862643,8934.0,602.0,"Balance = EUR 194,533 (+0.50); NumOfProducts = 1 (+0.39); inactive member (+0.36)"
+6508,0.8406018020695258,4340.0,600.0,NumOfProducts = 3 (+2.11); 3+ products (+1.20); Age = 42 (+0.21)
+2540,0.7017376554162726,5187.0,598.0,Age = 45 (+0.94); lives in Germany (+0.50); NumOfProducts = 1 (+0.40)
+2568,0.6035569468668329,6031.0,598.0,Age = 47 (+1.19); lives in Germany (+0.55); NumOfProducts = 1 (+0.37)
+2594,0.7513964542196484,4822.0,595.0,Age = 47 (+1.26); lives in Germany (+0.49); NumOfProducts = 1 (+0.42)
+4994,0.4704518971371192,7704.0,595.0,Age = 52 (+1.42); NumOfProducts = 1 (+0.36); lives in Germany (+0.31)
+1232,0.7153152029104551,5033.0,590.0,Age = 46 (+1.03); lives in Germany (+0.57); NumOfProducts = 1 (+0.42)
+8008,0.678036859389991,5291.0,588.0,Age = 44 (+0.67); lives in Germany (+0.56); NumOfProducts = 1 (+0.41)
+2428,0.430616370478989,8303.0,585.0,"NumOfProducts = 1 (+0.44); Balance = EUR 180,517 (+0.41); inactive member (+0.30)"
+4597,0.7247896346294715,4915.0,582.0,Age = 46 (+1.05); lives in Germany (+0.52); NumOfProducts = 1 (+0.41)
+6858,0.5555078074061289,6362.0,577.0,Age = 46 (+1.09); lives in Germany (+0.56); NumOfProducts = 1 (+0.41)
+7496,0.5714028944810554,6175.0,576.0,Age = 49 (+1.23); lives in Germany (+0.60); NumOfProducts = 1 (+0.43)
+8641,0.6358260179496151,5531.0,573.0,Age = 47 (+1.25); lives in Germany (+0.54); NumOfProducts = 1 (+0.37)
+4153,0.7852380569748904,4465.0,571.0,Age = 53 (+1.68); inactive member (+0.50); NumOfProducts = 1 (+0.39)
+8991,0.5273721417846002,6602.0,566.0,NumOfProducts = 1 (+0.47); lives in Germany (+0.46); inactive member (+0.30)
+9859,0.5779228317069263,6014.0,565.0,Age = 55 (+1.48); lives in Germany (+0.53); NumOfProducts = 1 (+0.41)
+4349,0.8943096696515603,3882.0,564.0,NumOfProducts = 3 (+1.94); 3+ products (+1.05); Age = 45 (+0.74)
+5833,0.7605995786262224,4549.0,562.0,Age = 49 (+1.37); lives in Germany (+0.45); NumOfProducts = 1 (+0.42)
+3991,0.7697343459364292,4486.0,561.0,Age = 59 (+2.10); inactive member (+0.72); female (+0.21)
+123,0.5889679296939476,5867.0,561.0,Age = 48 (+1.18); lives in Germany (+0.53); NumOfProducts = 1 (+0.38)
+4457,0.7624235023668796,4500.0,556.0,Age = 47 (+1.38); lives in Germany (+0.49); NumOfProducts = 1 (+0.46)
+7549,0.6854964421780988,4983.0,553.0,Age = 44 (+0.66); lives in Germany (+0.54); NumOfProducts = 1 (+0.42)
+8490,0.4464993900129927,7618.0,550.0,Age = 48 (+1.28); inactive member (+0.39); NumOfProducts = 1 (+0.32)
+7068,0.6521832932332694,5175.0,545.0,Age = 54 (+1.55); lives in Germany (+0.50); NumOfProducts = 1 (+0.34)
+2181,0.5870785414711911,5744.0,544.0,Age = 46 (+1.04); lives in Germany (+0.58); NumOfProducts = 1 (+0.36)
+6071,0.5951472724719659,5632.0,540.0,Age = 52 (+1.65); inactive member (+0.56); NumOfProducts = 1 (+0.28)
+7239,0.6876888400598894,4848.0,537.0,Age = 45 (+0.98); lives in Germany (+0.57); NumOfProducts = 1 (+0.44)
+2719,0.4933390096196275,6755.0,536.0,NumOfProducts = 1 (+0.47); lives in Germany (+0.36); inactive member (+0.33)
+5103,0.5629175053590333,5919.0,536.0,Age = 58 (+1.32); lives in Germany (+0.50); NumOfProducts = 1 (+0.35)
+8936,0.7349866805657568,4518.0,534.0,Age = 54 (+2.09); inactive member (+0.70); NumOfProducts = 1 (+0.30)
+316,0.4846872311981766,6798.0,529.0,Age = 49 (+1.33); inactive member (+0.37); NumOfProducts = 1 (+0.34)
+7297,0.5019941007688665,6511.0,524.0,Age = 43 (+0.71); lives in Germany (+0.51); NumOfProducts = 1 (+0.39)
+3549,0.9709359127597009,3332.0,517.0,NumOfProducts = 3 (+1.71); Age = 61 (+1.71); 3+ products (+0.95)
+3892,0.5531316177536261,5771.0,508.0,Age = 45 (+1.04); lives in Germany (+0.60); NumOfProducts = 1 (+0.39)
+1018,0.6510952612886645,4856.0,502.0,Age = 45 (+0.94); lives in Germany (+0.52); NumOfProducts = 1 (+0.46)
+9337,0.6598841813619597,4774.0,500.0,Age = 47 (+1.22); lives in Germany (+0.51); NumOfProducts = 1 (+0.38)
+4941,0.3959411296712682,7942.0,499.0,Age = 43 (+0.53); inactive member (+0.39); NumOfProducts = 1 (+0.33)
+1057,0.5467408983789761,5713.0,495.0,Age = 47 (+1.24); inactive member (+0.30); NumOfProducts = 1 (+0.29)
+5510,0.45640797418862245,6808.0,491.0,Age = 48 (+1.23); TenureByAge = 0.02 (+0.33); inactive member (+0.25)
+8982,0.3259835596726667,9480.0,488.0,"Balance = EUR 206,664 (+0.58); BalancePerProduct = EUR 206,664 (+0.45); NumOfProducts = 1 (+0.35)"
+7440,0.4680592245740948,6584.0,486.0,Age = 47 (+1.14); inactive member (+0.38); NumOfProducts = 1 (+0.27)
+585,0.6502054816799357,4723.0,484.0,Age = 51 (+1.70); inactive member (+0.44); NumOfProducts = 1 (+0.32)
+5185,0.4770176761710119,6405.0,481.0,lives in Germany (+0.50); NumOfProducts = 1 (+0.47); inactive member (+0.29)
+43,0.5008562405105988,6093.0,480.0,Age = 49 (+1.37); NumOfProducts = 1 (+0.39); inactive member (+0.32)
+7841,0.5874000756857415,5188.0,479.0,Age = 46 (+1.03); lives in Germany (+0.56); NumOfProducts = 1 (+0.35)
+8438,0.619375813525641,4909.0,478.0,Age = 48 (+1.19); lives in Germany (+0.53); NumOfProducts = 1 (+0.37)
+5285,0.4972374172610804,6118.0,478.0,Age = 53 (+1.30); CreditScore = 386 (+0.61); TenureByAge = 0.02 (+0.27)
+3035,0.6417042361563191,4734.0,478.0,Age = 45 (+0.93); lives in Germany (+0.57); NumOfProducts = 1 (+0.47)
+5949,0.5985627962955875,5037.0,473.0,Age = 44 (+0.73); lives in Germany (+0.61); NumOfProducts = 1 (+0.39)
+1898,0.5094352872371972,5907.0,472.0,Age = 45 (+0.95); lives in Germany (+0.56); NumOfProducts = 1 (+0.42)
+308,0.4729775173674041,6350.0,471.0,Age = 50 (+1.43); inactive member (+0.37); NumOfProducts = 1 (+0.33)
+3593,0.5580683738323847,5347.0,467.0,Age = 62 (+1.11); lives in Germany (+0.53); NumOfProducts = 1 (+0.32)
+4215,0.40798069563423445,7302.0,466.0,Age = 53 (+1.53); NumOfProducts = 1 (+0.23); female (+0.21)
+507,0.4668314304604475,6360.0,464.0,NumOfProducts = 1 (+0.48); lives in Germany (+0.43); inactive member (+0.28)
+2895,0.5927149141593441,5011.0,464.0,Age = 47 (+1.20); lives in Germany (+0.60); NumOfProducts = 1 (+0.39)
+7212,0.33612224534009133,8733.0,457.0,"Balance = EUR 190,067 (+0.56); BalancePerProduct = EUR 190,067 (+0.46); NumOfProducts = 1 (+0.36)"
+4883,0.4496469798554796,6513.0,456.0,Age = 43 (+0.72); lives in Germany (+0.53); NumOfProducts = 1 (+0.41)
+3938,0.53007189546725,5505.0,454.0,lives in Germany (+0.58); NumOfProducts = 1 (+0.48); inactive member (+0.26)
+4108,0.5003115928983255,5793.0,450.0,lives in Germany (+0.54); NumOfProducts = 1 (+0.45); inactive member (+0.32)
+7731,0.420752075170388,6713.0,435.0,NumOfProducts = 1 (+0.52); lives in Germany (+0.38); inactive member (+0.28)
+8578,0.4396504340937342,6376.0,431.0,Age = 47 (+1.15); inactive member (+0.38); NumOfProducts = 1 (+0.31)
+215,0.5621111275568278,4988.0,431.0,Age = 47 (+1.26); lives in Germany (+0.58); NumOfProducts = 1 (+0.39)
+7252,0.49072607566364124,5682.0,428.0,lives in Germany (+0.52); NumOfProducts = 1 (+0.48); inactive member (+0.30)
+8694,0.48561215992642814,5612.0,415.0,"Age = 48 (+1.26); inactive member (+0.33); Balance = EUR 116,711 (+0.32)"
+2800,0.36456614434947265,7415.0,411.0,"Age = 51 (+1.52); inactive member (+0.47); Balance = EUR 156,774 (+0.15)"
+4842,0.9479315965950303,2831.0,407.0,Age = 56 (+1.83); NumOfProducts = 3 (+1.67); 3+ products (+0.92)
+6014,0.5229227562502984,5106.0,404.0,Age = 48 (+1.25); inactive member (+0.43); NumOfProducts = 1 (+0.27)
+7822,0.38918971757014,6832.0,402.0,Age = 50 (+1.41); inactive member (+0.39); lives in Germany (+0.20)
+2300,0.42017989629527364,6297.0,399.0,Age = 45 (+0.86); inactive member (+0.38); NumOfProducts = 1 (+0.27)
+8586,0.3738144738725992,7065.0,398.0,Age = 46 (+1.00); inactive member (+0.32); female (+0.19)
+5962,0.39467049464239684,6677.0,397.0,lives in Germany (+0.54); NumOfProducts = 1 (+0.39); Age = 42 (+0.25)
+5412,0.4901659484889461,5368.0,396.0,Age = 48 (+1.34); inactive member (+0.33); NumOfProducts = 1 (+0.32)
+964,0.4823768081349294,5395.0,390.0,Age = 43 (+0.72); lives in Germany (+0.57); NumOfProducts = 1 (+0.36)
+1462,0.5376718119551392,4840.0,390.0,lives in Germany (+0.53); NumOfProducts = 1 (+0.47); inactive member (+0.23)
+6325,0.5132719283553178,5066.0,390.0,Age = 59 (+1.15); lives in Germany (+0.56); NumOfProducts = 1 (+0.39)
+2432,0.414508488615216,6269.0,390.0,lives in Germany (+0.51); NumOfProducts = 1 (+0.48); inactive member (+0.26)
+6917,0.4798825001121408,5395.0,388.0,lives in Germany (+0.45); NumOfProducts = 1 (+0.44); inactive member (+0.28)
+6433,0.33554009912513605,7707.0,387.0,Age = 53 (+1.32); CreditScore = 415 (+0.44); NumOfProducts = 1 (+0.27)
+677,0.5361516606046098,4802.0,385.0,Age = 45 (+1.05); lives in Germany (+0.62); NumOfProducts = 1 (+0.39)
+2281,0.3750200499210157,6862.0,385.0,NumOfProducts = 1 (+0.49); lives in Germany (+0.33); inactive member (+0.30)
+4502,0.3348859908240078,7580.0,378.0,Age = 45 (+0.88); inactive member (+0.39); NumOfProducts = 1 (+0.28)
+7884,0.29253760558158703,8660.0,377.0,"Balance = EUR 188,455 (+0.53); NumOfProducts = 1 (+0.37); BalancePerProduct = EUR 188,455 (+0.37)"
+6426,0.3494644444038678,7260.0,377.0,Age = 45 (+0.88); inactive member (+0.38); NumOfProducts = 1 (+0.28)
+1546,0.5825123149430683,4323.0,374.0,Age = 48 (+1.31); lives in Germany (+0.40); NumOfProducts = 1 (+0.32)
+4833,0.28483917452420404,8810.0,372.0,"Balance = EUR 191,776 (+0.61); BalancePerProduct = EUR 191,776 (+0.43); NumOfProducts = 1 (+0.40)"
+7261,0.47411215099072374,5289.0,372.0,Age = 53 (+1.56); TenureByAge = 0.02 (+0.25); female (+0.23)
+6610,0.38322351069201205,6481.0,367.0,Age = 54 (+1.50); CreditScore = 422 (+0.45); NumOfProducts = 1 (+0.30)
+1942,0.36283717356701245,6843.0,367.0,Age = 45 (+0.90); inactive member (+0.36); NumOfProducts = 1 (+0.33)
+9858,0.4423573574807036,5585.0,364.0,lives in Germany (+0.53); NumOfProducts = 1 (+0.46); inactive member (+0.27)
+2216,0.46768902542934626,5280.0,364.0,Age = 47 (+1.22); inactive member (+0.37); NumOfProducts = 1 (+0.29)
+9351,0.42891230344087944,5724.0,361.0,Age = 63 (+1.01); lives in Germany (+0.58); NumOfProducts = 1 (+0.33)
+182,0.32080687074428366,7657.0,361.0,Age = 45 (+0.91); inactive member (+0.28); TenureByAge = 0.02 (+0.19)
+6428,0.4234356595929221,5786.0,360.0,lives in Germany (+0.50); NumOfProducts = 1 (+0.43); inactive member (+0.29)
+7424,0.4128869273826146,5904.0,358.0,lives in Germany (+0.60); NumOfProducts = 1 (+0.44); inactive member (+0.29)
+2276,0.7056736720633755,3460.0,358.0,Age = 59 (+2.16); inactive member (+0.75); female (+0.17)
+449,0.4003038342645115,6088.0,357.0,"Age = 47 (+1.14); inactive member (+0.34); Balance = EUR 127,299 (+0.26)"
+1305,0.6692502546517104,3641.0,357.0,Age = 52 (+1.77); inactive member (+0.58); NumOfProducts = 1 (+0.41)
+6893,0.3387296617629614,7165.0,355.0,"Age = 50 (+1.35); inactive member (+0.39); Balance = EUR 151,215 (+0.18)"
+8114,0.33829089243242516,7166.0,355.0,Age = 49 (+1.35); female (+0.25); lives in Germany (+0.14)
+5601,0.339068108990354,7095.0,351.0,Age = 44 (+0.56); inactive member (+0.36); NumOfProducts = 1 (+0.27)
+1235,0.44331144844869586,5410.0,350.0,Age = 63 (+0.99); lives in Germany (+0.56); NumOfProducts = 1 (+0.33)
+5336,0.4264059486265659,5621.0,349.0,Age = 55 (+1.63); NumOfProducts = 1 (+0.24); female (+0.17)
+5359,0.43423190379849974,5476.0,346.0,"lives in Germany (+0.64); NumOfProducts = 1 (+0.42); BalancePerProduct = EUR 117,691 (+0.22)"
+3643,0.3500949350582655,6784.0,345.0,Age = 45 (+0.91); inactive member (+0.35); NumOfProducts = 1 (+0.33)
+9504,0.3566985163729368,6626.0,343.0,Age = 44 (+0.66); inactive member (+0.34); NumOfProducts = 1 (+0.32)
+2505,0.37587841771740105,6297.0,343.0,lives in Germany (+0.46); NumOfProducts = 1 (+0.42); inactive member (+0.23)
+4509,0.3604716177685334,6479.0,337.0,lives in Germany (+0.45); NumOfProducts = 1 (+0.45); inactive member (+0.25)
+524,0.4169222936753589,5594.0,336.0,Age = 48 (+1.32); inactive member (+0.32); NumOfProducts = 1 (+0.31)
+6556,0.5636922844966384,4130.0,336.0,Age = 51 (+1.50); NumOfProducts = 1 (+0.33); TenureByAge = 0.02 (+0.31)
+2079,0.36422646661258745,6338.0,332.0,Age = 45 (+0.94); inactive member (+0.34); NumOfProducts = 1 (+0.33)
+4680,0.6045374862886308,3811.0,331.0,Age = 48 (+1.43); NumOfProducts = 1 (+0.43); inactive member (+0.43)
+8975,0.3695247429385608,6227.0,330.0,lives in Germany (+0.60); NumOfProducts = 1 (+0.38); TenureByAge = 0.00 (+0.24)
+9908,0.28590702542128915,8023.0,329.0,"Age = 45 (+0.97); inactive member (+0.35); Balance = EUR 170,295 (+0.13)"
+6913,0.24251835577957262,9465.0,329.0,"Balance = EUR 206,330 (+0.50); BalancePerProduct = EUR 206,330 (+0.40); NumOfProducts = 1 (+0.31)"
+3910,0.530158828800133,4317.0,328.0,Age = 70 (+1.28); inactive member (+0.82); female (+0.20)
+6964,0.8997141075835031,2546.0,328.0,NumOfProducts = 3 (+1.84); Age = 55 (+1.43); 3+ products (+1.08)
+2973,0.3819454168373162,5980.0,327.0,Age = 56 (+1.47); NumOfProducts = 1 (+0.28); female (+0.18)
+8845,0.3742539996842632,6098.0,326.0,"lives in Germany (+0.57); NumOfProducts = 1 (+0.47); BalancePerProduct = EUR 131,513 (+0.18)"
+4188,0.34742240329816854,6560.0,326.0,Age = 47 (+1.21); inactive member (+0.34); lives in Germany (+0.23)
+4685,0.2600473014846934,8756.0,325.0,"Balance = EUR 190,569 (+0.38); NumOfProducts = 1 (+0.34); BalancePerProduct = EUR 190,569 (+0.24)"
+1797,0.514909177020813,4408.0,324.0,Age = 44 (+0.76); NumOfProducts = 1 (+0.46); lives in Germany (+0.42)
+4908,0.4437390710340524,5101.0,323.0,Age = 48 (+1.34); inactive member (+0.32); NumOfProducts = 1 (+0.31)
+9636,0.34809223871807043,6479.0,321.0,"lives in Germany (+0.49); NumOfProducts = 1 (+0.40); BalancePerProduct = EUR 139,974 (+0.18)"
+7004,0.3517036564672758,6405.0,321.0,Age = 50 (+1.32); NumOfProducts = 1 (+0.26); female (+0.19)
+4551,0.5326357783276461,4218.0,319.0,Age = 46 (+1.04); inactive member (+0.40); NumOfProducts = 1 (+0.30)
+2208,0.436608828861061,5117.0,317.0,Age = 46 (+1.05); NumOfProducts = 1 (+0.31); inactive member (+0.31)
+5149,0.39863413466450154,5585.0,315.0,Age = 49 (+1.34); NumOfProducts = 1 (+0.21); female (+0.20)
+7103,0.46004103105784916,4831.0,315.0,lives in Germany (+0.50); NumOfProducts = 1 (+0.43); Age = 42 (+0.19)
+8708,0.4460999492760291,4963.0,313.0,Age = 48 (+1.32); inactive member (+0.28); lives in Germany (+0.23)
+9711,0.3941337322548055,5606.0,312.0,"lives in Germany (+0.59); NumOfProducts = 1 (+0.43); BalancePerProduct = EUR 120,587 (+0.23)"
+1471,0.28995044156687994,7592.0,310.0,"Age = 48 (+1.31); NumOfProducts = 1 (+0.32); EstimatedSalary = EUR 21,439 (+0.06)"
+1570,0.41159578062273167,5349.0,310.0,"Age = 49 (+1.20); TenureByAge = 0.02 (+0.34); Balance = EUR 110,864 (+0.31)"
+5018,0.7446452358889816,2941.0,308.0,Age = 51 (+1.62); inactive member (+0.49); NumOfProducts = 1 (+0.41)
+5960,0.38903832822102596,5611.0,307.0,Age = 48 (+1.24); NumOfProducts = 1 (+0.32); inactive member (+0.30)
+4367,0.29685239127348756,7349.0,306.0,Age = 50 (+1.33); NumOfProducts = 1 (+0.20); TenureByAge = 0.00 (+0.17)
+1853,0.281597092232082,7720.0,305.0,NumOfProducts = 1 (+0.34); inactive member (+0.34); female (+0.18)
+2519,0.27574946306400483,7876.0,304.0,Age = 62 (+1.19); TenureByAge = 0.00 (+0.26); female (+0.20)
+9533,0.5299265765363954,4082.0,303.0,Age = 45 (+1.02); inactive member (+0.39); NumOfProducts = 1 (+0.38)
+2739,0.3391121997028799,6370.0,302.0,Age = 45 (+0.93); NumOfProducts = 1 (+0.32); inactive member (+0.31)
+3433,0.4427028210701785,4879.0,302.0,lives in Germany (+0.50); NumOfProducts = 1 (+0.46); inactive member (+0.23)
+4399,0.4388524749296562,4902.0,300.0,Age = 45 (+0.94); inactive member (+0.35); NumOfProducts = 1 (+0.30)
+3480,0.41761683906116814,5137.0,299.0,lives in Germany (+0.53); NumOfProducts = 1 (+0.34); TenureByAge = 0.00 (+0.26)
+2860,0.32643191122141835,6573.0,299.0,Age = 45 (+0.90); inactive member (+0.34); NumOfProducts = 1 (+0.33)
+9783,0.45414508641859197,4691.0,296.0,Age = 49 (+1.35); inactive member (+0.29); lives in Germany (+0.23)
+6945,0.3365623113640749,6276.0,292.0,lives in Germany (+0.46); NumOfProducts = 1 (+0.43); inactive member (+0.29)
+5295,0.2459804862079324,8529.0,290.0,NumOfProducts = 1 (+0.40); inactive member (+0.31); female (+0.24)
+970,0.3252765707903684,6405.0,287.0,Age = 48 (+1.17); NumOfProducts = 1 (+0.25); female (+0.19)
+1139,0.4048803818625487,5116.0,284.0,Age = 57 (+1.44); TenureByAge = 0.02 (+0.25); female (+0.22)
+6683,0.3091924635137106,6698.0,284.0,Age = 48 (+1.23); NumOfProducts = 1 (+0.21); female (+0.17)
+3715,0.493228002141173,4189.0,283.0,Age = 46 (+1.10); lives in Germany (+0.38); NumOfProducts = 1 (+0.36)
+1984,0.34025208161970355,6052.0,282.0,"Age = 45 (+0.90); Balance = EUR 126,496 (+0.27); TenureByAge = 0.02 (+0.24)"
+2122,0.2505692190573131,8194.0,281.0,"Balance = EUR 178,096 (+0.50); NumOfProducts = 1 (+0.34); inactive member (+0.32)"
+6372,0.34156807259943517,6018.0,281.0,"Age = 47 (+1.16); inactive member (+0.26); Balance = EUR 125,725 (+0.25)"
+2534,0.4245091614458513,4825.0,280.0,lives in Germany (+0.49); NumOfProducts = 1 (+0.43); inactive member (+0.29)
+8402,0.3166941014892702,6454.0,279.0,lives in Germany (+0.49); NumOfProducts = 1 (+0.44); inactive member (+0.30)
+8349,0.3125014212879449,6550.0,279.0,"lives in Germany (+0.59); NumOfProducts = 1 (+0.44); BalancePerProduct = EUR 141,560 (+0.20)"
+5776,0.2927453283157665,6993.0,279.0,NumOfProducts = 1 (+0.43); lives in Germany (+0.33); inactive member (+0.28)
+2794,0.7098828942597686,2865.0,277.0,Age = 52 (+1.80); inactive member (+0.56); NumOfProducts = 1 (+0.41)
+4900,0.24548057590123093,8276.0,276.0,"Balance = EUR 179,904 (+0.44); NumOfProducts = 1 (+0.38); BalancePerProduct = EUR 179,904 (+0.27)"
+7228,0.33286280714162847,6088.0,275.0,"Age = 47 (+1.25); female (+0.25); Balance = EUR 127,286 (+0.24)"
+8228,0.2728601753606032,7386.0,273.0,inactive member (+0.33); NumOfProducts = 1 (+0.31); female (+0.22)
+54,0.4348707562844052,4612.0,271.0,lives in Germany (+0.50); NumOfProducts = 1 (+0.50); inactive member (+0.26)
+638,0.2912038847139473,6832.0,268.0,Age = 43 (+0.70); NumOfProducts = 1 (+0.27); female (+0.25)
+6253,0.4007961333354506,4951.0,267.0,CreditScore = 395 (+0.59); lives in Germany (+0.49); NumOfProducts = 1 (+0.43)
+723,0.25319611226468536,7822.0,266.0,NumOfProducts = 1 (+0.31); inactive member (+0.30); female (+0.24)
+4608,0.35547882269983755,5573.0,266.0,"lives in Germany (+0.59); NumOfProducts = 1 (+0.45); BalancePerProduct = EUR 119,840 (+0.20)"
+3671,0.3664741827098876,5388.0,265.0,"Age = 52 (+1.40); Balance = EUR 111,739 (+0.30); lives in Germany (+0.26)"
+9096,0.23903513891894232,8224.0,263.0,"Balance = EUR 178,756 (+0.38); NumOfProducts = 1 (+0.37); inactive member (+0.33)"
+6751,0.34746181698625117,5643.0,262.0,Age = 53 (+1.49); NumOfProducts = 1 (+0.26); female (+0.15)
+7931,0.43717759856954325,4460.0,260.0,Age = 47 (+1.32); inactive member (+0.36); NumOfProducts = 1 (+0.34)
+7528,0.3690167907924818,5275.0,259.0,Age = 46 (+1.00); inactive member (+0.35); NumOfProducts = 1 (+0.32)
+4323,0.34621974261849225,5619.0,259.0,Age = 43 (+0.56); inactive member (+0.29); NumOfProducts = 1 (+0.29)
+7390,0.2255874086261909,8608.0,258.0,"Balance = EUR 187,294 (+0.46); NumOfProducts = 1 (+0.35); inactive member (+0.34)"
+4176,0.32233701924207586,6003.0,257.0,"lives in Germany (+0.57); NumOfProducts = 1 (+0.38); BalancePerProduct = EUR 129,402 (+0.19)"
+7592,0.46149404177833736,4181.0,256.0,Age = 44 (+0.74); NumOfProducts = 1 (+0.44); lives in Germany (+0.36)
+2345,0.2339140703204979,8261.0,256.0,"Balance = EUR 179,581 (+0.44); inactive member (+0.39); NumOfProducts = 1 (+0.35)"
+6864,0.30255142131330753,6386.0,256.0,Age = 48 (+1.28); lives in Germany (+0.20); female (+0.20)
+8047,0.3394530107338025,5665.0,255.0,lives in Germany (+0.54); NumOfProducts = 1 (+0.44); inactive member (+0.29)
+362,0.40083030031837896,4794.0,254.0,Age = 50 (+1.28); NumOfProducts = 1 (+0.29); female (+0.22)
+9177,0.2940063578037054,6479.0,251.0,lives in Germany (+0.43); NumOfProducts = 1 (+0.40); inactive member (+0.28)
+9625,0.3021583226040209,6294.0,250.0,Age = 44 (+0.70); TenureByAge = 0.00 (+0.29); lives in Germany (+0.23)
+6984,0.2648472269991841,7128.0,248.0,Age = 44 (+0.57); NumOfProducts = 1 (+0.33); inactive member (+0.30)
+4151,0.26593144837123694,7090.0,247.0,Age = 44 (+0.60); NumOfProducts = 1 (+0.33); inactive member (+0.28)
+2308,0.29117807355910796,6480.0,247.0,lives in Germany (+0.44); NumOfProducts = 1 (+0.42); inactive member (+0.28)
+1662,0.2923485920261079,6436.0,246.0,"lives in Germany (+0.50); NumOfProducts = 1 (+0.48); BalancePerProduct = EUR 139,022 (+0.17)"
+9021,0.21759245153817924,8640.0,246.0,"Age = 61 (+1.19); female (+0.25); Balance = EUR 183,998 (+0.15)"
+1854,0.36711346890009666,5087.0,244.0,lives in Germany (+0.50); NumOfProducts = 1 (+0.38); inactive member (+0.28)
+9221,0.3678156607701677,5079.0,244.0,lives in Germany (+0.51); NumOfProducts = 1 (+0.37); inactive member (+0.29)
+5084,0.28230101362611454,6605.0,243.0,Age = 49 (+1.31); NumOfProducts = 1 (+0.25); TenureByAge = 0.02 (+0.17)
+4368,0.2906705494197227,6420.0,243.0,lives in Germany (+0.49); NumOfProducts = 1 (+0.46); inactive member (+0.27)
+159,0.3245800318306387,5726.0,242.0,lives in Germany (+0.48); NumOfProducts = 1 (+0.42); inactive member (+0.28)
+4781,0.5632054934941375,3303.0,242.0,"Age = 53 (+1.80); inactive member (+0.55); Balance = EUR 65,407 (+0.16)"
+9145,0.3512472264740502,5265.0,240.0,Age = 45 (+0.86); inactive member (+0.36); NumOfProducts = 1 (+0.32)
+5602,0.41877407731495203,4417.0,240.0,Age = 50 (+1.40); NumOfProducts = 1 (+0.28); female (+0.21)
+3292,0.22256063795898426,8281.0,239.0,"Balance = EUR 176,024 (+0.45); inactive member (+0.25); female (+0.24)"
+5205,0.22024082909242365,8278.0,235.0,"Balance = EUR 179,960 (+0.57); BalancePerProduct = EUR 179,960 (+0.45); NumOfProducts = 1 (+0.37)"
+5053,0.3400964936488751,5367.0,235.0,lives in Germany (+0.47); NumOfProducts = 1 (+0.45); inactive member (+0.23)
+7852,0.32805135812010217,5566.0,235.0,"lives in Germany (+0.61); NumOfProducts = 1 (+0.42); BalancePerProduct = EUR 119,696 (+0.21)"
+2911,0.7622149389226769,2390.0,234.0,Age = 52 (+1.78); inactive member (+0.55); NumOfProducts = 1 (+0.46)
+4726,0.43579872147705784,4154.0,232.0,Age = 50 (+1.32); NumOfProducts = 1 (+0.43); lives in Germany (+0.33)
+5476,0.3412683957330856,5304.0,232.0,"Age = 47 (+1.15); inactive member (+0.32); Balance = EUR 109,877 (+0.30)"
+435,0.38986785178806976,4648.0,232.0,Age = 51 (+1.52); NumOfProducts = 1 (+0.27); female (+0.21)
+44,0.24996392426341899,7197.0,230.0,Age = 61 (+1.16); female (+0.21); NumOfProducts = 1 (+0.18)
+9906,0.2227038087050371,8088.0,230.0,"NumOfProducts = 1 (+0.33); Balance = EUR 175,739 (+0.30); female (+0.22)"
+8494,0.33162977831342966,5431.0,230.0,lives in Germany (+0.53); NumOfProducts = 1 (+0.46); inactive member (+0.27)
+3479,0.4190925981621681,4295.0,230.0,Age = 46 (+1.09); inactive member (+0.35); NumOfProducts = 1 (+0.34)
+4782,0.3371206549808609,5320.0,229.0,Age = 53 (+1.42); NumOfProducts = 1 (+0.24); female (+0.18)
+8564,0.5311585968726703,3379.0,229.0,Age = 48 (+1.26); inactive member (+0.41); NumOfProducts = 1 (+0.37)
+9832,0.36234696434250985,4938.0,228.0,Age = 64 (+0.75); lives in Germany (+0.51); NumOfProducts = 1 (+0.30)
+590,0.2670657449596002,6687.0,227.0,"lives in Germany (+0.47); NumOfProducts = 1 (+0.37); BalancePerProduct = EUR 144,606 (+0.17)"
+9720,0.23272353874044688,7629.0,225.0,NumOfProducts = 1 (+0.38); inactive member (+0.32); female (+0.17)
+8058,0.4011045925702633,4428.0,225.0,Age = 50 (+1.41); inactive member (+0.28); female (+0.20)
+4082,0.25452405245609483,6946.0,224.0,NumOfProducts = 1 (+0.43); lives in Germany (+0.33); inactive member (+0.30)
+6690,0.2981223682633391,5913.0,223.0,lives in Germany (+0.55); NumOfProducts = 1 (+0.48); inactive member (+0.28)
+7299,0.260301168056467,6777.0,223.0,"Age = 51 (+1.37); NumOfProducts = 1 (+0.28); BalancePerProduct = EUR 146,607 (+0.05)"
+3462,0.35012507362839296,5028.0,222.0,Age = 62 (+1.20); TenureByAge = 0.02 (+0.26); CreditScore = 428 (+0.20)
+3126,0.2817251190369867,6251.0,222.0,Age = 43 (+0.62); NumOfProducts = 1 (+0.38); inactive member (+0.30)
+9833,0.187528279428212,9365.0,221.0,"inactive member (+0.25); Balance = EUR 200,118 (+0.22); female (+0.20)"
+845,0.4629517935098167,3780.0,220.0,Age = 49 (+1.32); inactive member (+0.37); NumOfProducts = 1 (+0.35)
+7810,0.25526290323613837,6849.0,220.0,NumOfProducts = 1 (+0.48); lives in Germany (+0.34); inactive member (+0.26)
+4161,0.21524231719563147,8106.0,219.0,"Age = 43 (+0.60); NumOfProducts = 1 (+0.29); Balance = EUR 176,135 (+0.25)"
+1182,0.22486246662307877,7743.0,218.0,Age = 43 (+0.67); NumOfProducts = 1 (+0.25); female (+0.19)
+4901,0.20698398253756978,8373.0,217.0,"Age = 59 (+1.14); Balance = EUR 178,058 (+0.34); TenureByAge = 0.00 (+0.26)"
+7429,0.3180423270571048,5459.0,217.0,Age = 43 (+0.51); inactive member (+0.34); NumOfProducts = 1 (+0.27)
+7192,0.28921690031608555,5967.0,215.0,Age = 44 (+0.64); inactive member (+0.36); NumOfProducts = 1 (+0.31)
+9730,0.27187976021533167,6339.0,215.0,"lives in Germany (+0.50); NumOfProducts = 1 (+0.46); BalancePerProduct = EUR 136,858 (+0.18)"
+3543,0.2744138403968102,6261.0,214.0,"Age = 49 (+1.20); NumOfProducts = 1 (+0.30); EstimatedSalary = EUR 179,521 (+0.13)"
+5982,0.30402302502426465,5640.0,213.0,"lives in Germany (+0.62); NumOfProducts = 1 (+0.41); BalancePerProduct = EUR 121,342 (+0.23)"
+8248,0.31321084807017563,5464.0,212.0,lives in Germany (+0.55); NumOfProducts = 1 (+0.43); inactive member (+0.28)
+3757,0.4544515658762632,3747.0,211.0,Age = 45 (+0.90); inactive member (+0.40); NumOfProducts = 1 (+0.34)
+2530,0.5199036072820837,3269.0,210.0,Age = 45 (+1.01); NumOfProducts = 1 (+0.38); inactive member (+0.32)
+3028,0.3253866861388286,5226.0,210.0,"Age = 48 (+1.23); Balance = EUR 108,129 (+0.35); lives in Germany (+0.26)"
+7943,0.23122601327194034,7336.0,209.0,NumOfProducts = 1 (+0.36); inactive member (+0.30); Age = 42 (+0.19)
+1545,0.23087863663249378,7309.0,207.0,NumOfProducts = 1 (+0.36); lives in Germany (+0.28); Age = 42 (+0.21)
+3333,0.3884729676755043,4341.0,207.0,NumOfProducts = 1 (+0.47); lives in Germany (+0.34); inactive member (+0.30)
+6453,0.25041711383879567,6724.0,207.0,Age = 44 (+0.62); inactive member (+0.26); lives in Germany (+0.20)
+6380,0.2921748686211685,5733.0,205.0,lives in Germany (+0.55); NumOfProducts = 1 (+0.42); inactive member (+0.27)
+5963,0.3407543622208296,4880.0,203.0,"lives in Germany (+0.54); NumOfProducts = 1 (+0.45); BalancePerProduct = EUR 104,450 (+0.17)"
+1655,0.5651888329178699,2934.0,202.0,Age = 47 (+1.21); NumOfProducts = 1 (+0.41); inactive member (+0.39)
+3258,0.2925898846509564,5637.0,200.0,"lives in Germany (+0.54); NumOfProducts = 1 (+0.36); BalancePerProduct = EUR 121,264 (+0.21)"
+9624,0.317458892289586,5179.0,199.0,CreditScore = 350 (+0.69); NumOfProducts = 1 (+0.25); female (+0.21)
+763,0.3091613578085873,5323.0,199.0,lives in Germany (+0.48); NumOfProducts = 1 (+0.41); inactive member (+0.31)
+2799,0.286686038431434,5666.0,195.0,Age = 43 (+0.57); NumOfProducts = 1 (+0.37); inactive member (+0.32)
+2512,0.29431035262290944,5514.0,195.0,Age = 51 (+1.48); NumOfProducts = 1 (+0.21); TenureByAge = 0.02 (+0.20)
+911,0.31342277952614284,5184.0,195.0,Age = 53 (+1.39); NumOfProducts = 1 (+0.20); female (+0.18)
+6971,0.25016478066334596,6472.0,194.0,Age = 44 (+0.60); inactive member (+0.27); female (+0.20)
+950,0.25698711821858866,6246.0,191.0,"Age = 48 (+1.19); female (+0.21); Balance = EUR 130,796 (+0.19)"
+8874,0.339471892106294,4702.0,189.0,Age = 50 (+1.34); lives in Germany (+0.27); female (+0.22)
+6188,0.30448241248589153,5233.0,189.0,"Age = 47 (+1.19); Balance = EUR 108,289 (+0.33); lives in Germany (+0.29)"
+3914,0.20528657861822014,7758.0,189.0,"Age = 44 (+0.75); NumOfProducts = 1 (+0.28); EstimatedSalary = EUR 14,179 (+0.04)"
+3172,0.2604070221965552,6128.0,189.0,lives in Germany (+0.51); NumOfProducts = 1 (+0.43); inactive member (+0.26)
+3217,0.34500727032053097,4606.0,188.0,Age = 56 (+1.53); NumOfProducts = 1 (+0.23); female (+0.19)
+902,0.37338382927050584,4258.0,188.0,Age = 48 (+1.27); NumOfProducts = 1 (+0.27); female (+0.24)
+148,0.2827239558914942,5611.0,187.0,Age = 44 (+0.63); inactive member (+0.35); NumOfProducts = 1 (+0.32)
+7855,0.21781241583102232,7228.0,185.0,Age = 59 (+1.19); female (+0.22); lives in Germany (+0.16)
+1260,0.23083236835962537,6795.0,184.0,NumOfProducts = 1 (+0.43); lives in Germany (+0.38); inactive member (+0.32)
+8764,0.2789606214798713,5589.0,182.0,"Age = 51 (+1.34); Balance = EUR 116,198 (+0.34); lives in Germany (+0.32)"
+3314,0.23441172554113163,6639.0,181.0,"Age = 63 (+1.03); female (+0.25); Balance = EUR 139,530 (+0.16)"
+4532,0.18586241863988912,8373.0,181.0,"Balance = EUR 178,057 (+0.45); inactive member (+0.29); TenureByAge = 0.00 (+0.27)"
+4100,0.22816191946277847,6784.0,180.0,lives in Germany (+0.42); NumOfProducts = 1 (+0.35); female (+0.19)
+1283,0.22398664409635638,6901.0,179.0,"Age = 45 (+0.94); NumOfProducts = 1 (+0.29); EstimatedSalary = EUR 173,454 (+0.06)"
+7296,0.21459993607152664,7169.0,178.0,NumOfProducts = 1 (+0.36); lives in Germany (+0.30); inactive member (+0.30)
+9913,0.24708999866694675,6204.0,177.0,Age = 44 (+0.74); NumOfProducts = 1 (+0.23); female (+0.22)
+9979,0.3623665194934246,4231.0,177.0,Age = 58 (+1.38); TenureByAge = 0.02 (+0.25); female (+0.24)
+2802,0.28843084797131335,5297.0,176.0,Age = 53 (+1.55); NumOfProducts = 1 (+0.28); TenureByAge = 0.08 (+0.07)
+3653,0.43311310228073935,3531.0,176.0,Age = 46 (+1.06); NumOfProducts = 1 (+0.30); TenureByAge = 0.00 (+0.27)
+9695,0.24355199689132437,6291.0,176.0,"lives in Germany (+0.56); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 135,796 (+0.20)"
+4453,0.2230537844090117,6843.0,175.0,NumOfProducts = 1 (+0.50); lives in Germany (+0.41); inactive member (+0.28)
+5234,0.2290260686968815,6635.0,174.0,NumOfProducts = 1 (+0.39); inactive member (+0.29); female (+0.17)
+5425,0.29584557731851546,5131.0,174.0,"Age = 44 (+0.62); Balance = EUR 106,023 (+0.24); lives in Germany (+0.23)"
+7773,0.23776983387992892,6332.0,171.0,lives in Germany (+0.52); NumOfProducts = 1 (+0.27); Age = 67 (+0.22)
+1225,0.2940920539752958,5115.0,171.0,Age = 53 (+1.35); NumOfProducts = 1 (+0.20); female (+0.18)
+3716,0.22054018883806245,6815.0,171.0,NumOfProducts = 1 (+0.43); lives in Germany (+0.33); inactive member (+0.26)
+4805,0.35463634325584714,4240.0,171.0,NumOfProducts = 1 (+0.51); lives in Germany (+0.35); inactive member (+0.31)
+5325,0.26158988798154414,5752.0,171.0,Age = 43 (+0.72); NumOfProducts = 1 (+0.21); TenureByAge = 0.00 (+0.20)
+6537,0.22151896829858608,6768.0,170.0,inactive member (+0.31); NumOfProducts = 1 (+0.31); female (+0.17)
+9296,0.3052125956225183,4895.0,169.0,Age = 56 (+1.50); lives in Germany (+0.25); female (+0.20)
+8027,0.1540796524823485,9677.0,168.0,"Balance = EUR 207,035 (+0.60); inactive member (+0.30); BalancePerProduct = EUR 103,517 (+0.15)"
+3003,0.30372678574863676,4874.0,166.0,"Age = 55 (+1.54); NumOfProducts = 1 (+0.29); EstimatedSalary = EUR 175,750 (+0.10)"
+6376,0.3288048260668943,4494.0,166.0,Age = 46 (+1.02); inactive member (+0.37); NumOfProducts = 1 (+0.31)
+3658,0.38795500109614056,3814.0,166.0,Age = 43 (+0.64); NumOfProducts = 1 (+0.41); inactive member (+0.31)
+8310,0.27187129175314034,5405.0,164.0,Age = 43 (+0.53); inactive member (+0.36); NumOfProducts = 1 (+0.29)
+3802,0.2439255112159609,6035.0,164.0,"Age = 44 (+0.67); Balance = EUR 126,105 (+0.29); lives in Germany (+0.27)"
+7420,0.20948141913584695,7010.0,164.0,lives in Germany (+0.37); NumOfProducts = 1 (+0.36); female (+0.16)
+2307,0.2838340648043618,5172.0,164.0,"Age = 57 (+1.49); Balance = EUR 106,938 (+0.31); lives in Germany (+0.28)"
+7927,0.25772853625749037,5678.0,163.0,lives in Germany (+0.52); NumOfProducts = 1 (+0.41); inactive member (+0.28)
+476,0.2667560364277147,5490.0,163.0,"lives in Germany (+0.48); NumOfProducts = 1 (+0.41); BalancePerProduct = EUR 117,993 (+0.22)"
+7799,0.2780464806258272,5266.0,163.0,"Age = 46 (+1.02); Balance = EUR 109,020 (+0.39); lives in Germany (+0.35)"
+3297,0.22722314453049186,6423.0,162.0,inactive member (+0.32); NumOfProducts = 1 (+0.32); female (+0.19)
+8756,0.2841031132831574,5129.0,161.0,"lives in Germany (+0.55); NumOfProducts = 1 (+0.34); BalancePerProduct = EUR 109,974 (+0.20)"
+6959,0.2926481441874257,4973.0,161.0,Age = 46 (+0.99); NumOfProducts = 1 (+0.22); female (+0.18)
+2643,0.16345693241454243,8871.0,160.0,"Balance = EUR 193,126 (+0.50); BalancePerProduct = EUR 193,126 (+0.42); NumOfProducts = 1 (+0.33)"
+1290,0.2186516347300006,6629.0,160.0,lives in Germany (+0.50); NumOfProducts = 1 (+0.45); inactive member (+0.30)
+4950,0.5544524971631958,2595.0,158.0,Age = 45 (+1.01); NumOfProducts = 1 (+0.49); inactive member (+0.36)
+6694,0.2703551056631944,5330.0,158.0,"lives in Germany (+0.61); NumOfProducts = 1 (+0.38); BalancePerProduct = EUR 114,454 (+0.21)"
+3163,0.26915881865016894,5343.0,158.0,"lives in Germany (+0.57); NumOfProducts = 1 (+0.33); BalancePerProduct = EUR 114,737 (+0.21)"
+3403,0.2398046025274124,5992.0,157.0,"Age = 62 (+1.24); female (+0.26); Balance = EUR 125,164 (+0.24)"
+2448,0.2486075400749436,5761.0,156.0,lives in Germany (+0.54); NumOfProducts = 1 (+0.43); inactive member (+0.27)
+4404,0.21318625245104494,6709.0,156.0,Age = 43 (+0.69); NumOfProducts = 1 (+0.28); TenureByAge = 0.05 (+0.06)
+5350,0.25820512762576336,5491.0,154.0,"Age = 57 (+1.41); Balance = EUR 114,024 (+0.21); female (+0.20)"
+7177,0.20041151052104175,7032.0,152.0,NumOfProducts = 1 (+0.40); lives in Germany (+0.29); inactive member (+0.28)
+4312,0.26833016891922606,5247.0,152.0,NumOfProducts = 1 (+0.37); inactive member (+0.27); female (+0.18)
+9852,0.28845060143827306,4884.0,152.0,Age = 43 (+0.59); inactive member (+0.33); NumOfProducts = 1 (+0.31)
+9811,0.23424005200240813,5982.0,150.0,"lives in Germany (+0.49); NumOfProducts = 1 (+0.36); BalancePerProduct = EUR 128,928 (+0.20)"
+8699,0.2549565738161827,5448.0,148.0,lives in Germany (+0.52); NumOfProducts = 1 (+0.45); inactive member (+0.30)
+166,0.26388274143695045,5267.0,148.0,lives in Germany (+0.48); NumOfProducts = 1 (+0.40); inactive member (+0.30)
+8820,0.1989050929099553,6973.0,147.0,NumOfProducts = 1 (+0.40); lives in Germany (+0.37); inactive member (+0.31)
+8178,0.22578851828350152,6096.0,145.0,"Age = 46 (+0.90); Balance = EUR 127,477 (+0.26); female (+0.25)"
+4022,0.22088686325205656,6209.0,144.0,Age = 44 (+0.67); TenureByAge = 0.00 (+0.34); lives in Germany (+0.29)
+2286,0.18153100030591435,7468.0,141.0,Age = 44 (+0.63); inactive member (+0.28); lives in Germany (+0.16)
+1371,0.43573944174636803,3100.0,140.0,Age = 43 (+0.64); NumOfProducts = 1 (+0.39); inactive member (+0.33)
+1929,0.26306885193035234,5118.0,139.0,NumOfProducts = 1 (+0.30); inactive member (+0.29); female (+0.22)
+8300,0.3329064323424273,4046.0,139.0,Age = 48 (+1.31); NumOfProducts = 1 (+0.35); lives in Germany (+0.28)
+4530,0.24107856013968867,5552.0,138.0,"Age = 43 (+0.54); Balance = EUR 115,372 (+0.35); lives in Germany (+0.30)"
+8968,0.24768538842498838,5390.0,137.0,lives in Germany (+0.55); NumOfProducts = 1 (+0.29); TenureByAge = 0.00 (+0.22)
+2591,0.19496387739394266,6859.0,137.0,"lives in Germany (+0.39); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 148,431 (+0.11)"
+4725,0.19758632975463364,6672.0,134.0,Age = 43 (+0.54); inactive member (+0.23); female (+0.19)
+9073,0.19967044605433806,6597.0,133.0,Age = 60 (+1.18); lives in Germany (+0.20); female (+0.20)
+9161,0.1735730703718029,7552.0,132.0,NumOfProducts = 1 (+0.33); inactive member (+0.32); Tenure = 10 (+0.11)
+3144,0.33783278209312473,3842.0,130.0,Age = 55 (+1.48); NumOfProducts = 1 (+0.25); TenureByAge = 0.02 (+0.21)
+2303,0.22448658507140534,5791.0,130.0,Age = 45 (+0.89); NumOfProducts = 1 (+0.21); TenureByAge = 0.00 (+0.17)
+4742,0.22663273614646293,5722.0,129.0,"Age = 59 (+1.24); Balance = EUR 119,152 (+0.31); lives in Germany (+0.27)"
+7564,0.2723122047698367,4747.0,129.0,"lives in Germany (+0.63); NumOfProducts = 1 (+0.41); BalancePerProduct = EUR 101,487 (+0.17)"
+3592,0.22462490236973962,5758.0,129.0,"Age = 56 (+1.41); NumOfProducts = 1 (+0.23); Balance = EUR 123,960 (+0.06)"
+8450,0.19315933517334324,6678.0,128.0,Age = 44 (+0.69); lives in Germany (+0.21); female (+0.20)
+9315,0.207867154950961,6200.0,128.0,NumOfProducts = 1 (+0.37); inactive member (+0.33); Age = 42 (+0.17)
+7793,0.19440892660125353,6580.0,126.0,"Age = 56 (+1.52); Balance = EUR 138,227 (+0.17); TenureByAge = 0.07 (+0.08)"
+2361,0.17484585051959267,7328.0,126.0,Age = 43 (+0.65); female (+0.24); lives in Germany (+0.18)
+7414,0.26496451178726416,4823.0,126.0,"Age = 45 (+1.01); lives in Germany (+0.28); Balance = EUR 99,170 (+0.20)"
+3417,0.3561979050837182,3577.0,125.0,NumOfProducts = 1 (+0.39); female (+0.29); inactive member (+0.29)
+8368,0.2753474744682552,4620.0,124.0,NumOfProducts = 1 (+0.43); lives in Germany (+0.43); inactive member (+0.29)
+8197,0.265829241209307,4776.0,124.0,Age = 54 (+1.55); NumOfProducts = 1 (+0.28); CreditScore = 617 (+0.03)
+3427,0.23257722233679254,5455.0,124.0,inactive member (+0.34); NumOfProducts = 1 (+0.33); CreditScore = 465 (+0.12)
+7524,0.16341462845302027,7703.0,122.0,"NumOfProducts = 1 (+0.31); female (+0.17); EstimatedSalary = EUR 185,157 (+0.13)"
+1961,0.15034089038548962,8361.0,121.0,"Balance = EUR 177,800 (+0.50); inactive member (+0.33); female (+0.18)"
+7455,0.22825616674416768,5508.0,121.0,"lives in Germany (+0.55); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 118,401 (+0.25)"
+883,0.568469812147504,2211.0,121.0,Age = 45 (+0.98); NumOfProducts = 1 (+0.50); inactive member (+0.38)
+9082,0.14736470814162456,8468.0,120.0,"Balance = EUR 180,169 (+0.50); inactive member (+0.27); female (+0.22)"
+8462,0.22577144986923103,5533.0,120.0,Age = 59 (+1.34); NumOfProducts = 1 (+0.22); TenureByAge = 0.02 (+0.20)
+9779,0.220650106529407,5641.0,119.0,inactive member (+0.36); NumOfProducts = 1 (+0.32); Tenure = 10 (+0.11)
+9456,0.17873483011501745,6955.0,119.0,"NumOfProducts = 1 (+0.36); inactive member (+0.30); BalancePerProduct = EUR 150,556 (+0.05)"
+6202,0.22656547202927171,5428.0,116.0,"Age = 49 (+1.14); NumOfProducts = 1 (+0.23); Balance = EUR 116,623 (+0.06)"
+3874,0.21431585847739704,5743.0,116.0,"lives in Germany (+0.50); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 123,616 (+0.22)"
+8677,0.18775264555901916,6543.0,116.0,female (+0.27); inactive member (+0.22); Tenure = 10 (+0.17)
+2798,0.17641456915527934,6945.0,115.0,NumOfProducts = 1 (+0.40); lives in Germany (+0.33); inactive member (+0.32)
+9893,0.26094300337261933,4702.0,115.0,NumOfProducts = 1 (+0.36); inactive member (+0.32); female (+0.21)
+204,0.150765388161211,8130.0,115.0,"inactive member (+0.34); NumOfProducts = 1 (+0.30); Balance = EUR 176,667 (+0.27)"
+3904,0.16711850254847166,7338.0,115.0,"Age = 55 (+1.42); lives in Germany (+0.17); Balance = EUR 155,059 (+0.11)"
+923,0.1892351704100191,6420.0,113.0,"lives in Germany (+0.45); NumOfProducts = 1 (+0.38); BalancePerProduct = EUR 138,657 (+0.20)"
+243,0.2228173464441327,5464.0,113.0,"lives in Germany (+0.59); NumOfProducts = 1 (+0.25); Balance = EUR 117,412 (+0.20)"
+5095,0.2896601957741012,4201.0,113.0,Age = 46 (+0.97); NumOfProducts = 1 (+0.24); female (+0.23)
+6859,0.16632544761445742,7275.0,112.0,NumOfProducts = 1 (+0.29); inactive member (+0.28); female (+0.18)
+9024,0.27504338122162414,4401.0,112.0,"Age = 47 (+1.21); female (+0.23); Balance = EUR 89,799 (+0.17)"
+3562,0.2220935656101694,5452.0,112.0,"lives in Germany (+0.52); NumOfProducts = 1 (+0.38); BalancePerProduct = EUR 117,160 (+0.23)"
+4858,0.25754486989785885,4670.0,111.0,NumOfProducts = 1 (+0.36); inactive member (+0.32); female (+0.26)
+7640,0.15843190610722316,7561.0,110.0,NumOfProducts = 1 (+0.45); inactive member (+0.25); lives in Germany (+0.19)
+5405,0.14498722806740355,8269.0,110.0,"Age = 64 (+0.82); female (+0.19); Balance = EUR 175,755 (+0.10)"
+7685,0.27504770679761087,4360.0,110.0,NumOfProducts = 1 (+0.40); lives in Germany (+0.35); female (+0.20)
+4406,0.19052783455948893,6293.0,110.0,"lives in Germany (+0.50); NumOfProducts = 1 (+0.37); BalancePerProduct = EUR 135,843 (+0.23)"
+494,0.14983835004018542,8013.0,110.0,"Balance = EUR 170,062 (+0.32); female (+0.26); inactive member (+0.24)"
+9297,0.14877234901011832,8026.0,109.0,"NumOfProducts = 1 (+0.34); inactive member (+0.32); Balance = EUR 174,356 (+0.30)"
+4985,0.2112652719111724,5641.0,108.0,"lives in Germany (+0.54); NumOfProducts = 1 (+0.38); BalancePerProduct = EUR 121,365 (+0.26)"
+6396,0.1863997965254469,6380.0,108.0,Age = 44 (+0.69); lives in Germany (+0.22); female (+0.19)
+6970,0.20713651002528327,5737.0,108.0,"Age = 66 (+0.58); Balance = EUR 119,499 (+0.30); lives in Germany (+0.28)"
+801,0.2846902856249522,4174.0,108.0,Age = 44 (+0.69); TenureByAge = 0.00 (+0.37); female (+0.21)
+6285,0.22131856640483225,5323.0,106.0,"lives in Germany (+0.54); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 114,285 (+0.21)"
+8066,0.18378089547591347,6423.0,106.0,Age = 43 (+0.56); inactive member (+0.24); lives in Germany (+0.21)
+7687,0.17430602376234533,6778.0,106.0,"Age = 61 (+1.14); NumOfProducts = 1 (+0.27); BalancePerProduct = EUR 146,622 (+0.04)"
+9798,0.21163362524340978,5569.0,106.0,"lives in Germany (+0.55); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 119,755 (+0.23)"
+9864,0.18490575393663394,6387.0,106.0,"lives in Germany (+0.51); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 137,938 (+0.21)"
+9094,0.27174199269959304,4341.0,106.0,lives in Germany (+0.37); NumOfProducts = 1 (+0.36); inactive member (+0.27)
+7539,0.21201396624050736,5576.0,106.0,NumOfProducts = 1 (+0.36); inactive member (+0.32); Age = 42 (+0.25)
+9397,0.2593968511514313,4523.0,105.0,"Age = 52 (+1.42); female (+0.23); Balance = EUR 92,511 (+0.17)"
+9590,0.2257297931899456,5200.0,105.0,"lives in Germany (+0.59); NumOfProducts = 1 (+0.40); BalancePerProduct = EUR 111,566 (+0.25)"
+5677,0.22134208038518471,5285.0,104.0,lives in Germany (+0.56); NumOfProducts = 1 (+0.43); inactive member (+0.29)
+4699,0.2516156900966262,4659.0,104.0,Age = 56 (+1.57); NumOfProducts = 1 (+0.27); not in France (+0.05)
+7137,0.23491727689973385,4969.0,103.0,"lives in Germany (+0.52); NumOfProducts = 1 (+0.40); BalancePerProduct = EUR 106,426 (+0.26)"
+2603,0.15723950410266785,7399.0,103.0,"NumOfProducts = 1 (+0.39); lives in Germany (+0.27); EstimatedSalary = EUR 188,533 (+0.17)"
+2577,0.1671810037699416,6899.0,101.0,NumOfProducts = 1 (+0.43); lives in Germany (+0.39); inactive member (+0.28)
+5933,0.2063337897024771,5591.0,101.0,NumOfProducts = 1 (+0.36); inactive member (+0.32); Age = 41 (+0.09)
+2565,0.3010790066467836,3828.0,101.0,"Age = 50 (+1.35); female (+0.27); BalancePerProduct = EUR 38,533 (+0.12)"
+1748,0.16198624247079954,7056.0,99.0,NumOfProducts = 1 (+0.42); lives in Germany (+0.30); inactive member (+0.28)
+4756,0.19007562077054474,6037.0,99.0,NumOfProducts = 1 (+0.35); inactive member (+0.28); female (+0.22)
+9062,0.47059779616190917,2419.0,98.0,Age = 64 (+1.70); inactive member (+0.85); holds a balance (+0.09)
+6771,0.20805685817391048,5478.0,98.0,"lives in Germany (+0.58); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 117,726 (+0.24)"
+1679,0.2745701481221419,4133.0,97.0,NumOfProducts = 1 (+0.35); inactive member (+0.29); female (+0.22)
+332,0.2020165075820063,5626.0,97.0,"Age = 44 (+0.75); Balance = EUR 117,029 (+0.34); lives in Germany (+0.32)"
+7027,0.1574043294143787,7200.0,97.0,NumOfProducts = 1 (+0.37); lives in Germany (+0.28); inactive member (+0.27)
+9423,0.15185142189299355,7452.0,96.0,NumOfProducts = 1 (+0.30); inactive member (+0.26); female (+0.19)
+2061,0.1961410264876758,5734.0,95.0,"Balance = EUR 119,414 (+0.28); inactive member (+0.24); female (+0.20)"
+8831,0.2598661319232992,4290.0,93.0,NumOfProducts = 1 (+0.37); inactive member (+0.28); female (+0.21)
+4138,0.19724414377231983,5655.0,93.0,"lives in Germany (+0.60); NumOfProducts = 1 (+0.38); BalancePerProduct = EUR 121,669 (+0.23)"
+6300,0.19442233794093408,5736.0,93.0,"NumOfProducts = 1 (+0.31); female (+0.19); EstimatedSalary = EUR 179,228 (+0.16)"
+3696,0.19868265820469072,5623.0,93.0,NumOfProducts = 1 (+0.32); inactive member (+0.28); female (+0.18)
+9761,0.3047196240750299,3643.0,92.0,Age = 60 (+1.30); TenureByAge = 0.02 (+0.39); female (+0.20)
+7832,0.3564346923071697,3117.0,92.0,"Age = 46 (+0.97); NumOfProducts = 1 (+0.40); EstimatedSalary = EUR 189,989 (+0.14)"
+9750,0.3268863941127967,3364.0,90.0,Age = 51 (+1.34); NumOfProducts = 1 (+0.29); female (+0.21)
+9251,0.2144981603782838,5123.0,90.0,NumOfProducts = 1 (+0.32); inactive member (+0.29); female (+0.17)
+6634,0.1528732080540194,7207.0,90.0,inactive member (+0.22); female (+0.20); CreditScore = 480 (+0.11)
+1284,0.18596460801394005,5915.0,90.0,"Age = 59 (+1.22); NumOfProducts = 1 (+0.23); Balance = EUR 127,450 (+0.06)"
+8089,0.1953225202990402,5607.0,89.0,"lives in Germany (+0.51); NumOfProducts = 1 (+0.40); BalancePerProduct = EUR 120,597 (+0.24)"
+997,0.1943553803855087,5638.0,89.0,"Age = 62 (+1.13); NumOfProducts = 1 (+0.21); Balance = EUR 121,286 (+0.08)"
+1620,0.1625515837166654,6739.0,89.0,Age = 43 (+0.65); lives in Germany (+0.25); TenureByAge = 0.02 (+0.20)
+8372,0.20183470470048961,5434.0,89.0,"Age = 44 (+0.59); lives in Germany (+0.30); Balance = EUR 112,755 (+0.30)"
+3101,0.14699864234863275,7411.0,88.0,NumOfProducts = 1 (+0.42); lives in Germany (+0.31); inactive member (+0.25)
+4131,0.2755455412647527,3931.0,87.0,Age = 47 (+1.26); NumOfProducts = 1 (+0.29); CreditScore = 533 (+0.13)
+7807,0.2172267586420836,4963.0,86.0,"lives in Germany (+0.56); NumOfProducts = 1 (+0.41); BalancePerProduct = EUR 106,289 (+0.23)"
+209,0.21752144658986144,4967.0,86.0,"Age = 45 (+1.07); NumOfProducts = 1 (+0.28); Balance = EUR 106,377 (+0.04)"
+4393,0.12780913595705815,8455.0,86.0,"inactive member (+0.25); female (+0.24); Balance = EUR 179,886 (+0.23)"
+5867,0.15747940356841422,6814.0,85.0,"Age = 62 (+1.24); lives in Germany (+0.20); Balance = EUR 143,426 (+0.11)"
+2634,0.3016881247903982,3571.0,85.0,NumOfProducts = 1 (+0.39); inactive member (+0.35); female (+0.21)
+1819,0.14990206458901442,7151.0,84.0,"Age = 45 (+0.88); Balance = EUR 150,900 (+0.20); holds a balance (+0.08)"
+1489,0.16278011054036268,6555.0,83.0,"NumOfProducts = 1 (+0.29); female (+0.21); EstimatedSalary = EUR 175,664 (+0.16)"
+6331,0.20379112039637579,5235.0,83.0,"lives in Germany (+0.61); NumOfProducts = 1 (+0.36); BalancePerProduct = EUR 112,331 (+0.24)"
+4028,0.18077540646116402,5902.0,83.0,"Balance = EUR 123,152 (+0.27); inactive member (+0.24); lives in Germany (+0.20)"
+4216,0.23391109204967805,4543.0,83.0,Age = 56 (+1.52); NumOfProducts = 1 (+0.30); Tenure = 9 (+0.04)
+1244,0.1677818900247352,6306.0,82.0,TenureByAge = 0.00 (+0.31); lives in Germany (+0.20); female (+0.19)
+4285,0.19222009149836683,5525.0,82.0,"NumOfProducts = 1 (+0.40); inactive member (+0.26); EstimatedSalary = EUR 192,867 (+0.09)"
+4450,0.21747648832106353,4860.0,81.0,"Age = 59 (+1.32); NumOfProducts = 1 (+0.25); Balance = EUR 103,997 (+0.03)"
+8073,0.232505723541833,4531.0,81.0,NumOfProducts = 1 (+0.42); lives in Germany (+0.42); female (+0.24)
+2482,0.1907882608563274,5518.0,81.0,inactive member (+0.34); NumOfProducts = 1 (+0.33); not in France (+0.07)
+6171,0.19808214113205244,5304.0,80.0,"Age = 61 (+1.14); NumOfProducts = 1 (+0.22); Balance = EUR 113,859 (+0.07)"
+9731,0.2181011888281333,4797.0,79.0,lives in Germany (+0.54); NumOfProducts = 1 (+0.41); inactive member (+0.30)
+8081,0.2098296313640691,4978.0,79.0,"lives in Germany (+0.57); NumOfProducts = 1 (+0.40); BalancePerProduct = EUR 106,629 (+0.25)"
+1924,0.18352224667117314,5683.0,79.0,"Age = 44 (+0.72); NumOfProducts = 1 (+0.27); Balance = EUR 122,278 (+0.06)"
+3614,0.17169185466140716,6057.0,78.0,"Balance = EUR 126,607 (+0.31); TenureByAge = 0.00 (+0.29); lives in Germany (+0.23)"
+2161,0.13431587363031816,7687.0,77.0,NumOfProducts = 1 (+0.38); inactive member (+0.31); lives in Germany (+0.20)
+1219,0.17342165974543386,5967.0,77.0,"Age = 44 (+0.65); lives in Germany (+0.32); Balance = EUR 124,602 (+0.31)"
+5746,0.1486345136246542,6944.0,76.0,NumOfProducts = 1 (+0.30); female (+0.22); Age = 41 (+0.09)
+4565,0.283709594947216,3627.0,76.0,Age = 46 (+0.97); NumOfProducts = 1 (+0.29); female (+0.18)
+3076,0.14102951613422274,7263.0,75.0,Age = 43 (+0.65); female (+0.21); lives in Germany (+0.16)
+3151,0.19658044799819818,5206.0,75.0,NumOfProducts = 1 (+0.31); inactive member (+0.28); female (+0.22)
+9280,0.2977925313418455,3442.0,75.0,Age = 45 (+0.98); NumOfProducts = 1 (+0.30); female (+0.22)
+1339,0.17189964982426223,5941.0,74.0,"Age = 46 (+0.87); NumOfProducts = 1 (+0.22); Balance = EUR 128,030 (+0.06)"
+9249,0.12886903931391402,7904.0,74.0,"NumOfProducts = 1 (+0.26); female (+0.19); Balance = EUR 171,647 (+0.18)"
+1344,0.17785272829109058,5738.0,74.0,"Balance = EUR 119,508 (+0.27); inactive member (+0.23); lives in Germany (+0.21)"
+9841,0.2951363923219043,3431.0,73.0,Age = 46 (+0.99); TenureByAge = 0.02 (+0.31); female (+0.20)
+4828,0.1737234277166659,5808.0,72.0,"inactive member (+0.28); Balance = EUR 121,057 (+0.22); female (+0.20)"
+6855,0.1709447225980175,5899.0,72.0,NumOfProducts = 1 (+0.33); inactive member (+0.28); Age = 41 (+0.06)
+6069,0.20621392631122198,4885.0,71.0,"Age = 52 (+1.42); Balance = EUR 100,549 (+0.16); BalancePerProduct = EUR 50,275 (+0.09)"
+428,0.29614917738699337,3390.0,71.0,NumOfProducts = 1 (+0.44); inactive member (+0.34); female (+0.16)
+3891,0.23105200618298596,4317.0,70.0,NumOfProducts = 1 (+0.43); inactive member (+0.31); lives in Germany (+0.30)
+1425,0.19547470390367536,5106.0,70.0,NumOfProducts = 1 (+0.27); Age = 42 (+0.27); female (+0.23)
+1532,0.1485125917259457,6749.0,70.0,NumOfProducts = 1 (+0.36); lives in Germany (+0.35); female (+0.15)
+5886,0.2337825043040237,4257.0,69.0,"NumOfProducts = 1 (+0.47); lives in Germany (+0.32); EstimatedSalary = EUR 181,598 (+0.18)"
+5414,0.1491989680778281,6669.0,69.0,"female (+0.24); inactive member (+0.21); Balance = EUR 140,198 (+0.13)"
+4208,0.2364952987505253,4193.0,68.0,Age = 44 (+0.79); NumOfProducts = 1 (+0.26); female (+0.18)
+8994,0.1480971372343257,6637.0,67.0,"Age = 43 (+0.62); female (+0.20); Balance = EUR 139,496 (+0.16)"
+6391,0.1667903616729991,5889.0,66.0,inactive member (+0.29); NumOfProducts = 1 (+0.27); female (+0.20)
+9593,0.16167942839627666,6059.0,66.0,Age = 67 (+0.35); female (+0.22); TenureByAge = 0.01 (+0.19)
+3912,0.2479325139467099,3932.0,65.0,"Age = 46 (+0.94); inactive member (+0.30); Balance = EUR 79,385 (+0.11)"
+2917,0.1497540737431947,6495.0,65.0,"Age = 57 (+1.38); Balance = EUR 136,325 (+0.18); holds a balance (+0.08)"
+9173,0.16421832577602263,5901.0,64.0,"Age = 43 (+0.62); NumOfProducts = 1 (+0.24); Balance = EUR 127,133 (+0.06)"
+2688,0.19010976314254166,5051.0,62.0,"lives in Germany (+0.53); NumOfProducts = 1 (+0.37); BalancePerProduct = EUR 108,236 (+0.23)"
+4122,0.15927455399899365,6003.0,61.0,"Age = 60 (+1.22); Balance = EUR 125,390 (+0.22); EstimatedSalary = EUR 178,617 (+0.10)"
+721,0.15421513915901253,6194.0,61.0,"female (+0.25); Balance = EUR 129,634 (+0.15); Age = 42 (+0.14)"
+2313,0.18424635796104227,5164.0,60.0,"Balance = EUR 106,756 (+0.24); inactive member (+0.22); female (+0.21)"
+4998,0.14120695208143413,6681.0,59.0,NumOfProducts = 1 (+0.28); female (+0.16); Age = 40 (+0.07)
+9266,0.15964738968775333,5923.0,59.0,inactive member (+0.29); NumOfProducts = 1 (+0.26); female (+0.19)
+6699,0.13290272455725038,7124.0,59.0,"inactive member (+0.24); female (+0.22); Balance = EUR 150,301 (+0.12)"
+5720,0.21712986206728752,4355.0,59.0,Age = 46 (+1.01); NumOfProducts = 1 (+0.26); CreditScore = 507 (+0.09)
+890,0.14258657827721216,6549.0,57.0,"inactive member (+0.36); NumOfProducts = 1 (+0.29); BalancePerProduct = EUR 141,541 (+0.09)"
+9278,0.12551082879828707,7430.0,57.0,NumOfProducts = 1 (+0.31); inactive member (+0.29); CreditScore = 443 (+0.16)
+3558,0.1617878431092736,5768.0,57.0,"NumOfProducts = 1 (+0.34); inactive member (+0.31); Balance = EUR 124,182 (+0.03)"
+186,0.20030774872180393,4635.0,56.0,NumOfProducts = 1 (+0.39); inactive member (+0.26); female (+0.20)
+3786,0.13069075710214084,7072.0,55.0,inactive member (+0.25); female (+0.19); lives in Germany (+0.16)
+759,0.20066942306453917,4620.0,55.0,Age = 58 (+1.35); NumOfProducts = 1 (+0.26); TenureByAge = 0.09 (+0.02)
+1923,0.13549029878389546,6843.0,55.0,"NumOfProducts = 1 (+0.33); inactive member (+0.28); EstimatedSalary = EUR 179,129 (+0.15)"
+2887,0.20232813233472427,4560.0,55.0,NumOfProducts = 1 (+0.41); lives in Germany (+0.38); inactive member (+0.29)
+8443,0.15048980469255085,6153.0,55.0,"lives in Germany (+0.52); NumOfProducts = 1 (+0.37); BalancePerProduct = EUR 132,725 (+0.22)"
+6944,0.19204316104006522,4806.0,55.0,"lives in Germany (+0.57); NumOfProducts = 1 (+0.41); BalancePerProduct = EUR 102,801 (+0.17)"
+2321,0.202461952478297,4581.0,55.0,"Age = 45 (+1.02); lives in Germany (+0.25); Balance = EUR 93,796 (+0.18)"
+8957,0.13040031640575792,7042.0,54.0,lives in Germany (+0.38); NumOfProducts = 1 (+0.36); not in France (+0.05)
+798,0.1047865883702958,8799.0,54.0,"Balance = EUR 187,531 (+0.53); female (+0.22); holds a balance (+0.06)"
+6174,0.18482608841226816,4979.0,54.0,"lives in Germany (+0.53); NumOfProducts = 1 (+0.38); BalancePerProduct = EUR 106,649 (+0.23)"
+4388,0.13459763576745915,6789.0,53.0,"inactive member (+0.23); female (+0.21); Balance = EUR 142,877 (+0.16)"
+3241,0.1949264773621875,4697.0,53.0,lives in Germany (+0.52); NumOfProducts = 1 (+0.37); female (+0.20)
+2081,0.14765953031861476,6168.0,52.0,"lives in Germany (+0.53); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 133,061 (+0.21)"
+7754,0.18809244583490878,4818.0,51.0,"inactive member (+0.26); female (+0.25); Balance = EUR 99,056 (+0.14)"
+5457,0.23096525034284288,3915.0,51.0,Age = 62 (+1.17); NumOfProducts = 1 (+0.32); lives in Germany (+0.26)
+4144,0.21937658604571206,4116.0,51.0,"Age = 44 (+0.72); NumOfProducts = 1 (+0.33); EstimatedSalary = EUR 188,594 (+0.17)"
+4293,0.182221867970837,4953.0,51.0,Age = 44 (+0.70); NumOfProducts = 1 (+0.24); TenureByAge = 0.07 (+0.07)
+6573,0.10219183611733336,8838.0,51.0,"NumOfProducts = 1 (+0.37); BalancePerProduct = EUR 192,408 (+0.15); holds a balance (+0.02)"
+8226,0.15612047662276138,5769.0,50.0,inactive member (+0.33); NumOfProducts = 1 (+0.31); female (+0.18)
+917,0.3906027717251755,2301.0,50.0,Age = 45 (+0.99); NumOfProducts = 1 (+0.43); female (+0.19)
+2742,0.15401557526987067,5840.0,50.0,NumOfProducts = 1 (+0.27); female (+0.20); Age = 41 (+0.15)
+2103,0.2994206477612578,2988.0,49.0,"Age = 61 (+1.21); NumOfProducts = 1 (+0.40); EstimatedSalary = EUR 192,434 (+0.16)"
+2179,0.21548545892638424,4161.0,49.0,NumOfProducts = 1 (+0.36); inactive member (+0.33); not in France (+0.06)
+7383,0.14384803236744625,6212.0,49.0,"inactive member (+0.24); female (+0.23); Balance = EUR 130,052 (+0.18)"
+8207,0.15377429193858616,5795.0,48.0,"Age = 63 (+1.06); Balance = EUR 120,787 (+0.29); BalancePerProduct = EUR 60,394 (+0.08)"
+3425,0.16645159860936914,5318.0,47.0,"Age = 43 (+0.59); lives in Germany (+0.34); Balance = EUR 110,183 (+0.33)"
+8654,0.14586859151132894,6062.0,47.0,"Balance = EUR 126,704 (+0.34); lives in Germany (+0.27); inactive member (+0.23)"
+7386,0.12045460112621696,7311.0,46.0,NumOfProducts = 1 (+0.32); lives in Germany (+0.25); female (+0.16)
+9682,0.11709455517051341,7458.0,45.0,inactive member (+0.24); female (+0.23); lives in Germany (+0.09)
+7917,0.144044279111231,6042.0,44.0,"Balance = EUR 126,266 (+0.36); lives in Germany (+0.30); inactive member (+0.24)"
+5751,0.14250663705642078,6094.0,44.0,"NumOfProducts = 1 (+0.38); Age = 40 (+0.11); EstimatedSalary = EUR 194,656 (+0.10)"
+3856,0.20911590258751833,4155.0,44.0,NumOfProducts = 1 (+0.33); inactive member (+0.30); lives in Germany (+0.28)
+2641,0.11408482158492012,7576.0,43.0,NumOfProducts = 1 (+0.32); lives in Germany (+0.24); female (+0.16)
+5397,0.12711841249042127,6789.0,43.0,"inactive member (+0.22); female (+0.22); Balance = EUR 142,857 (+0.15)"
+2069,0.16947259149154817,5067.0,42.0,"lives in Germany (+0.56); NumOfProducts = 1 (+0.36); BalancePerProduct = EUR 108,601 (+0.24)"
+8328,0.1270323302740314,6781.0,42.0,inactive member (+0.32); NumOfProducts = 1 (+0.31); not in France (+0.09)
+2133,0.1500253497794702,5722.0,42.0,NumOfProducts = 1 (+0.30); inactive member (+0.29); female (+0.21)
+876,0.10765602334649076,7980.0,42.0,NumOfProducts = 1 (+0.32); female (+0.20); lives in Germany (+0.10)
+2533,0.16446255446242802,5227.0,42.0,"Age = 61 (+1.19); Balance = EUR 108,166 (+0.29); BalancePerProduct = EUR 54,083 (+0.13)"
+9627,0.12089173418043114,7079.0,41.0,NumOfProducts = 1 (+0.31); inactive member (+0.30); not in France (+0.08)
+3073,0.1604905383354533,5291.0,40.0,"Balance = EUR 109,570 (+0.34); TenureByAge = 0.00 (+0.32); lives in Germany (+0.22)"
+293,0.1621170900333204,5257.0,40.0,inactive member (+0.32); NumOfProducts = 1 (+0.30); female (+0.23)
+7774,0.1367597923543707,6179.0,39.0,"Age = 43 (+0.63); lives in Germany (+0.26); Balance = EUR 129,305 (+0.26)"
+8951,0.1823497310674836,4625.0,39.0,NumOfProducts = 1 (+0.43); lives in Germany (+0.42); inactive member (+0.30)
+3460,0.14959801755323296,5646.0,39.0,"Balance = EUR 117,470 (+0.36); lives in Germany (+0.28); inactive member (+0.24)"
+1658,0.1920722937448393,4361.0,38.0,Age = 44 (+0.80); NumOfProducts = 1 (+0.30); TenureByAge = 0.05 (+0.03)
+4250,0.1531226741116376,5458.0,37.0,inactive member (+0.29); NumOfProducts = 1 (+0.27); female (+0.17)
+7218,0.12471104563108132,6698.0,37.0,"inactive member (+0.32); NumOfProducts = 1 (+0.31); BalancePerProduct = EUR 144,852 (+0.08)"
+2696,0.19145884119304488,4322.0,36.0,female (+0.26); NumOfProducts = 1 (+0.23); Age = 40 (+0.16)
+8580,0.11816623596556552,7034.0,36.0,NumOfProducts = 1 (+0.30); inactive member (+0.28); female (+0.14)
+3953,0.1427532603881542,5797.0,36.0,NumOfProducts = 1 (+0.33); inactive member (+0.27); female (+0.17)
+8,0.12305952656019006,6752.0,36.0,"Age = 44 (+0.70); Balance = EUR 142,051 (+0.15); CreditScore = 501 (+0.10)"
+1606,0.1744085171844413,4725.0,35.0,"female (+0.22); inactive member (+0.21); Balance = EUR 97,001 (+0.18)"
+9794,0.10781526897769482,7601.0,34.0,inactive member (+0.36); NumOfProducts = 1 (+0.27); not in France (+0.08)
+3730,0.13883503451041482,5857.0,33.0,inactive member (+0.30); NumOfProducts = 1 (+0.28); not in France (+0.08)
+4227,0.13989300541028676,5811.0,33.0,NumOfProducts = 1 (+0.27); inactive member (+0.27); female (+0.19)
+969,0.14476088083400004,5618.0,33.0,"Age = 70 (+0.46); Balance = EUR 116,855 (+0.33); lives in Germany (+0.31)"
+1100,0.11869637065350781,6866.0,33.0,"NumOfProducts = 1 (+0.33); female (+0.18); EstimatedSalary = EUR 176,791 (+0.12)"
+7677,0.10847952233673024,7449.0,32.0,inactive member (+0.30); NumOfProducts = 1 (+0.28); holds a balance (+0.02)
+9938,0.18900178132140666,4281.0,32.0,inactive member (+0.31); NumOfProducts = 1 (+0.30); female (+0.20)
+3622,0.19114603598686603,4223.0,31.0,"Age = 55 (+1.44); Balance = EUR 85,845 (+0.15); BalancePerProduct = EUR 42,923 (+0.12)"
+7162,0.13071491998315207,6140.0,31.0,"NumOfProducts = 1 (+0.35); inactive member (+0.31); EstimatedSalary = EUR 177,748 (+0.17)"
+3720,0.11111880608263233,7226.0,31.0,inactive member (+0.26); lives in Germany (+0.17); CreditScore = 473 (+0.11)
+5597,0.15359518977974052,5235.0,31.0,NumOfProducts = 1 (+0.27); Age = 42 (+0.24); female (+0.18)
+5964,0.1265286455364268,6350.0,31.0,inactive member (+0.32); NumOfProducts = 1 (+0.31); not in France (+0.10)
+4504,0.13112089182491324,6153.0,31.0,NumOfProducts = 1 (+0.35); inactive member (+0.30); not in France (+0.08)
+9805,0.10037440729319257,8036.0,31.0,"NumOfProducts = 1 (+0.27); Balance = EUR 174,571 (+0.26); BalancePerProduct = EUR 174,571 (+0.15)"
+756,0.13179986779704803,6082.0,30.0,"Balance = EUR 127,161 (+0.31); inactive member (+0.25); lives in Germany (+0.20)"
+2994,0.13203014182692915,6065.0,30.0,NumOfProducts = 1 (+0.27); female (+0.21); CreditScore = 625 (+0.02)
+454,0.13412370083875108,5911.0,29.0,"NumOfProducts = 1 (+0.26); female (+0.20); Balance = EUR 127,358 (+0.05)"
+4533,0.08256527441559798,9631.0,29.0,"Balance = EUR 206,015 (+0.51); BalancePerProduct = EUR 103,007 (+0.10); holds a balance (+0.08)"
+6583,0.11255242757219217,7081.0,29.0,NumOfProducts = 1 (+0.37); lives in Germany (+0.36); not in France (+0.08)
+9305,0.11875872357776063,6640.0,28.0,"inactive member (+0.23); female (+0.22); Balance = EUR 139,562 (+0.16)"
+4275,0.09432004706219152,8371.0,28.0,"Balance = EUR 178,012 (+0.53); inactive member (+0.29); holds a balance (+0.07)"
+1123,0.10827747730323252,7311.0,28.0,NumOfProducts = 1 (+0.44); lives in Germany (+0.29); not in France (+0.08)
+3467,0.16347537119617758,4795.0,27.0,lives in Germany (+0.24); female (+0.22); Age = 42 (+0.18)
+288,0.10206203752435959,7663.0,26.0,"NumOfProducts = 1 (+0.25); EstimatedSalary = EUR 181,694 (+0.16); female (+0.15)"
+1420,0.19642345740095885,3955.0,25.0,Age = 45 (+0.95); NumOfProducts = 1 (+0.26); not in France (+0.04)
+5438,0.10469946656079189,7403.0,25.0,"inactive member (+0.31); NumOfProducts = 1 (+0.30); BalancePerProduct = EUR 160,515 (+0.04)"
+1340,0.1694821299552738,4563.0,25.0,Age = 43 (+0.71); NumOfProducts = 1 (+0.25); TenureByAge = 0.05 (+0.05)
+6792,0.10399951752025866,7451.0,25.0,"NumOfProducts = 1 (+0.33); EstimatedSalary = EUR 191,076 (+0.22); not in France (+0.07)"
+2435,0.12304776343508177,6273.0,24.0,"inactive member (+0.24); lives in Germany (+0.20); Balance = EUR 131,391 (+0.19)"
+9544,0.11712062452985374,6593.0,24.0,inactive member (+0.21); female (+0.18); lives in Germany (+0.17)
+2485,0.11717291441028169,6582.0,24.0,NumOfProducts = 1 (+0.26); female (+0.19); TenureByAge = 0.16 (+0.03)
+3767,0.11341572893247626,6726.0,23.0,"NumOfProducts = 1 (+0.36); inactive member (+0.28); EstimatedSalary = EUR 188,383 (+0.11)"
+6219,0.14309557286792798,5361.0,23.0,inactive member (+0.28); NumOfProducts = 1 (+0.28); not in France (+0.10)
+3952,0.11696165079057709,6549.0,23.0,NumOfProducts = 1 (+0.31); inactive member (+0.27); female (+0.16)
+5283,0.1009615807014687,7540.0,22.0,NumOfProducts = 1 (+0.34); lives in Germany (+0.23); female (+0.16)
+7090,0.2327138548911759,3259.0,22.0,"Age = 47 (+1.18); TenureByAge = 0.02 (+0.26); Balance = EUR 64,430 (+0.15)"
+3748,0.18510164459650855,4075.0,21.0,female (+0.33); NumOfProducts = 1 (+0.25); Tenure = 10 (+0.17)
+6310,0.15927237481660586,4743.0,21.0,"Age = 43 (+0.52); inactive member (+0.27); Balance = EUR 97,392 (+0.17)"
+3465,0.2169106930895971,3466.0,20.0,Age = 43 (+0.56); inactive member (+0.23); female (+0.22)
+260,0.14320260618417746,5254.0,20.0,"Balance = EUR 108,748 (+0.38); lives in Germany (+0.33); Age = 42 (+0.15)"
+6034,0.09683095164392655,7727.0,20.0,"inactive member (+0.29); Balance = EUR 163,709 (+0.19); holds a balance (+0.10)"
+3219,0.12674181276759214,5870.0,19.0,"Balance = EUR 122,454 (+0.25); lives in Germany (+0.25); female (+0.22)"
+6702,0.1399737394070691,5306.0,19.0,"Balance = EUR 109,908 (+0.38); lives in Germany (+0.27); inactive member (+0.25)"
+5762,0.17347476353511598,4299.0,19.0,lives in Germany (+0.41); NumOfProducts = 1 (+0.41); not in France (+0.05)
+9233,0.1157173437938715,6404.0,18.0,NumOfProducts = 1 (+0.30); inactive member (+0.27); female (+0.16)
+6609,0.17144575094562492,4303.0,18.0,NumOfProducts = 1 (+0.31); female (+0.22); Age = 41 (+0.20)
+6741,0.15703485746944312,4704.0,18.0,Age = 44 (+0.67); NumOfProducts = 1 (+0.26); not in France (+0.05)
+8583,0.11275884632917961,6583.0,18.0,NumOfProducts = 1 (+0.25); female (+0.21); TenureByAge = 0.05 (+0.03)
+195,0.09156899453251284,8046.0,17.0,"NumOfProducts = 1 (+0.30); Balance = EUR 174,790 (+0.21); BalancePerProduct = EUR 174,790 (+0.12)"
+2717,0.12771045715483303,5746.0,17.0,"Age = 70 (+0.45); lives in Germany (+0.34); Balance = EUR 119,685 (+0.32)"
+8929,0.16654790412851203,4407.0,17.0,NumOfProducts = 1 (+0.34); inactive member (+0.26); female (+0.21)
+7866,0.1243097328694787,5897.0,17.0,"NumOfProducts = 1 (+0.23); female (+0.21); Balance = EUR 127,043 (+0.07)"
+7737,0.11550691388154165,6383.0,17.0,NumOfProducts = 1 (+0.31); inactive member (+0.27); female (+0.18)
+9142,0.1344262769379598,5433.0,16.0,"inactive member (+0.25); female (+0.25); Balance = EUR 112,727 (+0.21)"
+8043,0.1112233809570191,6541.0,16.0,inactive member (+0.32); NumOfProducts = 1 (+0.30); not in France (+0.11)
+7207,0.10613708203091335,6895.0,16.0,"inactive member (+0.24); female (+0.23); Balance = EUR 145,223 (+0.18)"
+6361,0.15328550119242415,4758.0,16.0,CreditScore = 416 (+0.49); TenureByAge = 0.00 (+0.34); female (+0.22)
+170,0.1207163785238663,6035.0,16.0,NumOfProducts = 1 (+0.28); inactive member (+0.26); female (+0.20)
+6513,0.13976561978035104,5181.0,15.0,"female (+0.27); Balance = EUR 107,135 (+0.20); EstimatedSalary = EUR 160,547 (+0.09)"
+3243,0.09187069854800614,7917.0,15.0,"NumOfProducts = 1 (+0.33); Balance = EUR 171,923 (+0.28); BalancePerProduct = EUR 171,923 (+0.16)"
+8781,0.19573758310154865,3708.0,15.0,Age = 60 (+1.21); NumOfProducts = 1 (+0.27); CreditScore = 438 (+0.16)
+5296,0.28321877600822,2557.0,15.0,Age = 44 (+0.62); NumOfProducts = 1 (+0.39); female (+0.19)
+5738,0.13073891395384657,5549.0,15.0,"inactive member (+0.31); NumOfProducts = 1 (+0.28); Balance = EUR 119,316 (+0.05)"
+4448,0.1633142756283894,4410.0,14.0,"female (+0.24); lives in Germany (+0.22); Balance = EUR 89,995 (+0.16)"
+218,0.1402204866500466,5121.0,14.0,"Age = 43 (+0.51); inactive member (+0.22); Balance = EUR 105,799 (+0.21)"
+1728,0.15804372531758715,4567.0,14.0,"inactive member (+0.25); female (+0.24); Balance = EUR 93,500 (+0.18)"
+9193,0.10358358391543672,6930.0,14.0,NumOfProducts = 1 (+0.32); inactive member (+0.26); female (+0.19)
+2630,0.09655927614364344,7460.0,14.0,inactive member (+0.24); female (+0.20); holds a balance (+0.08)
+340,0.11603588739617292,6188.0,14.0,"female (+0.20); Balance = EUR 129,502 (+0.20); lives in Germany (+0.19)"
+4155,0.178007390114545,4010.0,13.0,NumOfProducts = 1 (+0.34); inactive member (+0.33); not in France (+0.06)
+2905,0.08830851532912022,8075.0,13.0,"NumOfProducts = 1 (+0.33); lives in Germany (+0.15); BalancePerProduct = EUR 175,454 (+0.07)"
+3742,0.14454394981829236,4943.0,13.0,lives in Germany (+0.23); inactive member (+0.21); female (+0.20)
+8766,0.1757825878932239,4077.0,13.0,inactive member (+0.30); NumOfProducts = 1 (+0.30); female (+0.22)
+8330,0.3028216407631067,2357.0,13.0,NumOfProducts = 1 (+0.54); inactive member (+0.30); female (+0.21)
+6655,0.17841911091237908,4019.0,13.0,Age = 44 (+0.74); NumOfProducts = 1 (+0.29); CreditScore = 554 (+0.05)
+9385,0.1539185253294434,4652.0,13.0,"Age = 44 (+0.70); lives in Germany (+0.29); Balance = EUR 95,368 (+0.14)"
+9688,0.09161863102986743,7805.0,13.0,"NumOfProducts = 1 (+0.24); Age = 68 (+0.20); EstimatedSalary = EUR 186,335 (+0.14)"
+2611,0.14202424759790422,5040.0,13.0,NumOfProducts = 1 (+0.32); Age = 42 (+0.28); CreditScore = 566 (+0.06)
+2023,0.12363470441634099,5759.0,12.0,NumOfProducts = 1 (+0.32); Age = 41 (+0.12); TenureByAge = 0.02 (+0.06)
+1516,0.1561182984208463,4525.0,11.0,NumOfProducts = 1 (+0.27); inactive member (+0.26); female (+0.23)
+809,0.15723075306149722,4493.0,11.0,inactive member (+0.29); NumOfProducts = 1 (+0.29); female (+0.21)
+3776,0.10037043312563099,7034.0,11.0,"NumOfProducts = 1 (+0.32); inactive member (+0.30); BalancePerProduct = EUR 152,303 (+0.03)"
+6638,0.0890075889644198,7937.0,11.0,"NumOfProducts = 1 (+0.26); Balance = EUR 172,382 (+0.20); BalancePerProduct = EUR 172,382 (+0.11)"
+3453,0.14063294215850197,5022.0,11.0,"inactive member (+0.26); lives in Germany (+0.26); Balance = EUR 103,604 (+0.22)"
+3148,0.1124977138905562,6241.0,10.0,"female (+0.29); Balance = EUR 130,695 (+0.18); holds a balance (+0.07)"
+1155,0.09981637707999794,7034.0,10.0,"NumOfProducts = 1 (+0.31); inactive member (+0.28); Balance = EUR 152,304 (+0.02)"
+8752,0.12512405818176217,5596.0,10.0,inactive member (+0.32); NumOfProducts = 1 (+0.30); not in France (+0.12)
+2730,0.11349608046716492,6185.0,10.0,inactive member (+0.30); NumOfProducts = 1 (+0.29); not in France (+0.12)
+2016,0.08754958709007372,7949.0,9.0,"NumOfProducts = 1 (+0.27); Balance = EUR 172,647 (+0.23); BalancePerProduct = EUR 172,647 (+0.13)"
+9850,0.10006701236429627,6925.0,9.0,"NumOfProducts = 1 (+0.31); inactive member (+0.28); BalancePerProduct = EUR 149,880 (+0.06)"
+7684,0.11816333874963242,5885.0,9.0,NumOfProducts = 1 (+0.27); TenureByAge = 0.02 (+0.10); not in France (+0.06)
+770,0.11194164419280722,6199.0,9.0,"female (+0.22); inactive member (+0.21); Balance = EUR 129,749 (+0.18)"
+2959,0.09272676261666028,7495.0,9.0,NumOfProducts = 1 (+0.30); inactive member (+0.28); Tenure = 9 (+0.08)
+3094,0.08478252148721234,8205.0,9.0,"inactive member (+0.24); female (+0.22); Balance = EUR 174,330 (+0.18)"
+7277,0.13105887605481878,5289.0,9.0,"Balance = EUR 109,528 (+0.37); TenureByAge = 0.00 (+0.37); lives in Germany (+0.28)"
+9331,0.09016266955049469,7656.0,8.0,NumOfProducts = 1 (+0.35); lives in Germany (+0.25); not in France (+0.07)
+1981,0.14035516376114673,4919.0,8.0,female (+0.22); TenureByAge = 0.01 (+0.18); Age = 69 (+0.15)
+6722,0.1010138586449264,6799.0,7.0,"NumOfProducts = 1 (+0.32); inactive member (+0.29); BalancePerProduct = EUR 147,093 (+0.08)"
+4072,0.09709009389830373,7072.0,7.0,NumOfProducts = 1 (+0.26); female (+0.21); Tenure = 9 (+0.07)
+6280,0.14301753120859584,4781.0,7.0,"lives in Germany (+0.50); NumOfProducts = 1 (+0.39); BalancePerProduct = EUR 102,251 (+0.15)"
+8418,0.14120776129305937,4863.0,7.0,inactive member (+0.23); female (+0.22); lives in Germany (+0.20)
+8538,0.10446460973033715,6542.0,7.0,"inactive member (+0.24); female (+0.22); Balance = EUR 137,388 (+0.17)"
+6679,0.11709752949235627,5822.0,6.0,inactive member (+0.31); NumOfProducts = 1 (+0.28); not in France (+0.11)
+716,0.24056656469172494,2818.0,6.0,NumOfProducts = 1 (+0.43); inactive member (+0.26); female (+0.18)
+4933,0.1302197315556533,5237.0,6.0,"CreditScore = 420 (+0.43); Balance = EUR 108,378 (+0.37); lives in Germany (+0.18)"
+517,0.1175681904173681,5764.0,6.0,"Balance = EUR 120,093 (+0.32); lives in Germany (+0.26); inactive member (+0.25)"
+4235,0.09801512787714145,6961.0,6.0,"inactive member (+0.32); NumOfProducts = 1 (+0.30); BalancePerProduct = EUR 150,686 (+0.05)"
+6754,0.09379003517218211,7272.0,6.0,NumOfProducts = 1 (+0.25); female (+0.17); not in France (+0.09)
+2142,0.12855730530434212,5251.0,5.0,"NumOfProducts = 1 (+0.33); inactive member (+0.31); EstimatedSalary = EUR 176,962 (+0.12)"
+6527,0.12499604064735495,5420.0,5.0,inactive member (+0.29); NumOfProducts = 1 (+0.29); CreditScore = 464 (+0.07)
+5279,0.14354519136571714,4701.0,5.0,NumOfProducts = 1 (+0.27); female (+0.21); Age = 40 (+0.12)
+9959,0.12747985334243261,5292.0,5.0,inactive member (+0.34); NumOfProducts = 1 (+0.28); not in France (+0.08)
+2535,0.10540587923251074,6424.0,5.0,"inactive member (+0.23); lives in Germany (+0.21); Balance = EUR 134,760 (+0.16)"
+9775,0.10367568351106093,6496.0,5.0,NumOfProducts = 1 (+0.31); inactive member (+0.29); female (+0.18)
+496,0.08402683904242413,7969.0,4.0,"inactive member (+0.27); Balance = EUR 169,089 (+0.22); female (+0.17)"
+3760,0.16401967997275424,4087.0,4.0,"NumOfProducts = 1 (+0.37); inactive member (+0.34); EstimatedSalary = EUR 175,906 (+0.15)"
+3850,0.10119987356382028,6628.0,4.0,"NumOfProducts = 1 (+0.32); inactive member (+0.30); BalancePerProduct = EUR 143,293 (+0.06)"
+7980,0.09733583202249796,6903.0,4.0,inactive member (+0.33); NumOfProducts = 1 (+0.27); not in France (+0.08)
+6236,0.14329842210688207,4673.0,4.0,"NumOfProducts = 1 (+0.35); inactive member (+0.25); EstimatedSalary = EUR 187,916 (+0.14)"
+4772,0.22438995661403033,2956.0,3.0,Age = 44 (+0.68); NumOfProducts = 1 (+0.35); CreditScore = 487 (+0.10)
+2192,0.08768875650292167,7577.0,3.0,NumOfProducts = 1 (+0.32); inactive member (+0.31); Tenure = 8 (+0.03)
+3686,0.08016813122843926,8286.0,3.0,"Balance = EUR 176,140 (+0.48); inactive member (+0.32); holds a balance (+0.07)"
+7725,0.09463069823032474,7012.0,3.0,"inactive member (+0.24); female (+0.21); Balance = EUR 147,813 (+0.14)"
+9387,0.09839357431841621,6699.0,2.0,"NumOfProducts = 1 (+0.32); inactive member (+0.23); EstimatedSalary = EUR 187,740 (+0.15)"
+1763,0.14470148700557514,4566.0,2.0,"NumOfProducts = 1 (+0.35); inactive member (+0.30); EstimatedSalary = EUR 189,176 (+0.13)"
+1722,0.13994506328462356,4711.0,2.0,"NumOfProducts = 1 (+0.31); EstimatedSalary = EUR 178,361 (+0.26); female (+0.20)"
+6133,0.10861147055947196,6078.0,2.0,"Balance = EUR 127,077 (+0.32); inactive member (+0.24); lives in Germany (+0.20)"
+986,0.10063784102521782,6575.0,2.0,"NumOfProducts = 1 (+0.30); inactive member (+0.29); BalancePerProduct = EUR 142,121 (+0.06)"
+3434,0.08988846923082719,7368.0,2.0,Age = 66 (+0.38); NumOfProducts = 1 (+0.20); TenureByAge = 0.06 (+0.05)
+5051,0.11182461748093746,5913.0,2.0,inactive member (+0.35); NumOfProducts = 1 (+0.25); not in France (+0.09)
+7409,0.12832969834739294,5101.0,1.0,"lives in Germany (+0.25); female (+0.22); Balance = EUR 105,356 (+0.21)"
